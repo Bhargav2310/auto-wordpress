@@ -1,0 +1,1141 @@
+Service Type,Car Brand,Car Model,Petrol,Diesel,CNG,GoMechanic Price,Add Percentage 12%,My Car Mistry Amount
+Standard Service,Chevrolet,AVEO,0,0,Yes,3039,364.704,3404
+Standard Service,Chevrolet,AVEO,0,Yes,0,3359,403.104,3762
+Standard Service,Chevrolet,AVEO,Yes,0,0,3039,364.704,3404
+Standard Service,Chevrolet,BEAT,0,Yes,0,3039,364.704,3404
+Standard Service,Chevrolet,BEAT,Yes,0,0,2799,335.904,3135
+Standard Service,Chevrolet,BEAT,0,0,Yes,2799,335.904,3135
+Standard Service,Chevrolet,CAPTIVA,0,Yes,0,4879,585.504,5465
+Standard Service,Chevrolet,CRUZE,0,Yes,0,4879,585.504,5465
+Standard Service,Chevrolet,CRUZE,Yes,0,0,3999,479.904,4479
+Standard Service,Chevrolet,CRUZE,0,0,Yes,3999,479.904,4479
+Standard Service,Chevrolet,ENJOY,0,Yes,0,3759,451.104,4210
+Standard Service,Chevrolet,ENJOY,Yes,0,0,3519,422.304,3942
+Standard Service,Chevrolet,ENJOY,0,0,Yes,3519,422.304,3942
+Standard Service,Chevrolet,FORESTER,0,0,Yes,4879,585.504,5465
+Standard Service,Chevrolet,FORESTER,0,Yes,0,5519,662.304,6182
+Standard Service,Chevrolet,FORESTER,Yes,0,0,4879,585.504,5465
+Standard Service,Chevrolet,OPTRA,0,Yes,0,4879,585.504,5465
+Standard Service,Chevrolet,OPTRA,Yes,0,0,3359,403.104,3762
+Standard Service,Chevrolet,OPTRA,0,0,Yes,3359,403.104,3762
+Standard Service,Chevrolet,OPTRA MAGNUM,0,0,Yes,3359,403.104,3762
+Standard Service,Chevrolet,OPTRA MAGNUM,0,Yes,0,4879,585.504,5465
+Standard Service,Chevrolet,OPTRA MAGNUM,Yes,0,0,3359,403.104,3762
+Standard Service,Chevrolet,OPTRA SRV,Yes,0,0,3359,403.104,3762
+Standard Service,Chevrolet,OPTRA SRV,0,0,Yes,3359,403.104,3762
+Standard Service,Chevrolet,SAIL,0,Yes,0,3119,374.304,3494
+Standard Service,Chevrolet,SAIL,Yes,0,0,3039,364.704,3404
+Standard Service,Chevrolet,SAIL,0,0,Yes,3039,364.704,3404
+Standard Service,Chevrolet,SAIL HATCHBACK,0,Yes,0,2959,355.104,3314
+Standard Service,Chevrolet,SAIL HATCHBACK,Yes,0,0,2959,355.104,3314
+Standard Service,Chevrolet,SAIL HATCHBACK,0,0,Yes,2959,355.104,3314
+Standard Service,Chevrolet,SPARK,0,0,Yes,2959,355.104,3314
+Standard Service,Chevrolet,SPARK,Yes,0,0,2959,355.104,3314
+Standard Service,Chevrolet,TAVERA,0,Yes,0,4159,499.104,4658
+Standard Service,Chevrolet,UVA,0,Yes,0,2959,355.104,3314
+Standard Service,Chevrolet,UVA,Yes,0,0,2959,355.104,3314
+Standard Service,Chevrolet,UVA,0,0,Yes,2959,355.104,3314
+Standard Service,Daewoo,CIELO,Yes,0,0,3199,383.904,3583
+Standard Service,Daewoo,CIELO,0,0,Yes,3199,383.904,3583
+Standard Service,Daewoo,MATIZ,Yes,0,0,2479,297.504,2777
+Standard Service,Daewoo,MATIZ,0,0,Yes,2479,297.504,2777
+Standard Service,Daewoo,NEXIA,0,0,Yes,3199,383.904,3583
+Standard Service,Daewoo,NEXIA,Yes,0,0,3199,383.904,3583
+Standard Service,Datsun,GO,0,0,Yes,2479,297.504,2777
+Standard Service,Datsun,GO,Yes,0,0,2479,297.504,2777
+Standard Service,Datsun,GO PLUS,0,0,Yes,2479,297.504,2777
+Standard Service,Datsun,GO PLUS,Yes,0,0,2479,297.504,2777
+Standard Service,Fiat,ADVENTURE,0,0,Yes,3039,364.704,3404
+Standard Service,Fiat,ADVENTURE,0,Yes,0,3279,393.504,3673
+Standard Service,Fiat,ADVENTURE,Yes,0,0,3039,364.704,3404
+Standard Service,Fiat,AVVENTURA,0,Yes,0,3279,393.504,3673
+Standard Service,Fiat,AVVENTURA,Yes,0,0,3039,364.704,3404
+Standard Service,Fiat,AVVENTURA,0,0,Yes,3039,364.704,3404
+Standard Service,Fiat,LINEA,0,0,Yes,3119,374.304,3494
+Standard Service,Fiat,LINEA,0,Yes,0,3359,403.104,3762
+Standard Service,Fiat,LINEA,Yes,0,0,3119,374.304,3494
+Standard Service,Fiat,LINEA CLASSIC,Yes,0,0,3119,374.304,3494
+Standard Service,Fiat,LINEA CLASSIC,0,0,Yes,3119,374.304,3494
+Standard Service,Fiat,LINEA CLASSIC,0,Yes,0,3359,403.104,3762
+Standard Service,Fiat,PALIO D,0,Yes,0,3119,374.304,3494
+Standard Service,Fiat,PALIO D,Yes,0,0,2879,345.504,3225
+Standard Service,Fiat,PALIO D,0,0,Yes,2879,345.504,3225
+Standard Service,Fiat,PALIO NV,0,0,Yes,2879,345.504,3225
+Standard Service,Fiat,PALIO NV,0,Yes,0,3119,374.304,3494
+Standard Service,Fiat,PALIO NV,Yes,0,0,2879,345.504,3225
+Standard Service,Fiat,PALIO STILE,0,Yes,0,3119,374.304,3494
+Standard Service,Fiat,PALIO STILE,Yes,0,0,2879,345.504,3225
+Standard Service,Fiat,PALIO STILE,0,0,Yes,2879,345.504,3225
+Standard Service,Fiat,PETRA,0,0,Yes,2879,345.504,3225
+Standard Service,Fiat,PETRA,0,Yes,0,3119,374.304,3494
+Standard Service,Fiat,PETRA,Yes,0,0,2879,345.504,3225
+Standard Service,Fiat,PUNTO,Yes,0,0,2799,335.904,3135
+Standard Service,Fiat,PUNTO,0,0,Yes,2799,335.904,3135
+Standard Service,Fiat,PUNTO,0,Yes,0,3279,393.504,3673
+Standard Service,Fiat,PUNTO EVO,0,Yes,0,2799,335.904,3135
+Standard Service,Fiat,UNO,0,0,Yes,2799,335.904,3135
+Standard Service,Fiat,UNO,Yes,0,0,2799,335.904,3135
+Standard Service,Ford,ECO SPORT,0,0,Yes,3039,364.704,3404
+Standard Service,Ford,ECO SPORT,0,Yes,0,3279,393.504,3673
+Standard Service,Ford,ECO SPORT,Yes,0,0,3039,364.704,3404
+Standard Service,Ford,ENDEAVOUR,0,Yes,0,4719,566.304,5286
+Standard Service,Ford,ESCORT,0,0,Yes,3119,374.304,3494
+Standard Service,Ford,ESCORT,0,Yes,0,3279,393.504,3673
+Standard Service,Ford,ESCORT,Yes,0,0,3119,374.304,3494
+Standard Service,Ford,FIESTA,0,Yes,0,3279,393.504,3673
+Standard Service,Ford,FIESTA,Yes,0,0,3119,374.304,3494
+Standard Service,Ford,FIESTA,0,0,Yes,3119,374.304,3494
+Standard Service,Ford,FIESTA CLASSIC,0,0,Yes,3119,374.304,3494
+Standard Service,Ford,FIESTA CLASSIC,0,Yes,0,3279,393.504,3673
+Standard Service,Ford,FIESTA CLASSIC,Yes,0,0,3119,374.304,3494
+Standard Service,Ford,FIGO,0,0,Yes,3039,364.704,3404
+Standard Service,Ford,FIGO,0,Yes,0,3119,374.304,3494
+Standard Service,Ford,FIGO,Yes,0,0,3039,364.704,3404
+Standard Service,Ford,FIGO ASPIRE,0,Yes,0,3119,374.304,3494
+Standard Service,Ford,FIGO ASPIRE,Yes,0,0,3039,364.704,3404
+Standard Service,Ford,FIGO ASPIRE,0,0,Yes,3039,364.704,3404
+Standard Service,Ford,FUSION,0,0,Yes,3039,364.704,3404
+Standard Service,Ford,FUSION,0,Yes,0,3119,374.304,3494
+Standard Service,Ford,FUSION,Yes,0,0,3039,364.704,3404
+Standard Service,Ford,IKON,0,Yes,0,3279,393.504,3673
+Standard Service,Ford,IKON,Yes,0,0,3119,374.304,3494
+Standard Service,Ford,IKON,0,0,Yes,3119,374.304,3494
+Standard Service,Ford,MONDEO,0,0,Yes,3119,374.304,3494
+Standard Service,Ford,MONDEO,0,Yes,0,3279,393.504,3673
+Standard Service,Ford,MONDEO,Yes,0,0,3119,374.304,3494
+Standard Service,Honda,ACCORD,0,0,Yes,3839,460.704,4300
+Standard Service,Honda,ACCORD,Yes,0,0,3839,460.704,4300
+Standard Service,Honda,AMAZE,0,0,Yes,2879,345.504,3225
+Standard Service,Honda,AMAZE,0,Yes,0,3039,364.704,3404
+Standard Service,Honda,AMAZE,Yes,0,0,2879,345.504,3225
+Standard Service,Honda,BRIO,Yes,0,0,2879,345.504,3225
+Standard Service,Honda,BRIO,0,0,Yes,2879,345.504,3225
+Standard Service,Honda,CITY,0,Yes,0,3119,374.304,3494
+Standard Service,Honda,CITY,Yes,0,0,3039,364.704,3404
+Standard Service,Honda,CITY,0,0,Yes,3039,364.704,3404
+Standard Service,Honda,CITY IVTEC,0,0,Yes,3039,364.704,3404
+Standard Service,Honda,CITY IVTEC,Yes,0,0,3039,364.704,3404
+Standard Service,Honda,CITY ZX,0,0,Yes,3039,364.704,3404
+Standard Service,Honda,CITY ZX,Yes,0,0,3039,364.704,3404
+Standard Service,Honda,CIVIC,0,0,Yes,3679,441.504,4121
+Standard Service,Honda,CIVIC,Yes,0,0,3679,441.504,4121
+Standard Service,Honda,CRV,Yes,0,0,3839,460.704,4300
+Standard Service,Honda,CRV,0,0,Yes,3839,460.704,4300
+Standard Service,Honda,JAZZ,0,Yes,0,3119,374.304,3494
+Standard Service,Honda,JAZZ,Yes,0,0,3039,364.704,3404
+Standard Service,Honda,JAZZ,0,0,Yes,3039,364.704,3404
+Standard Service,Honda,MOBILIO,0,0,Yes,2879,345.504,3225
+Standard Service,Honda,MOBILIO,0,Yes,0,3039,364.704,3404
+Standard Service,Honda,MOBILIO,Yes,0,0,2879,345.504,3225
+Standard Service,Hyundai,ACCENT,0,Yes,0,3839,460.704,4300
+Standard Service,Hyundai,ACCENT,Yes,0,0,2639,316.704,2956
+Standard Service,Hyundai,ACCENT,0,0,Yes,2639,316.704,2956
+Standard Service,Hyundai,ACCENT VIVA,0,0,Yes,2639,316.704,2956
+Standard Service,Hyundai,ACCENT VIVA,0,Yes,0,3839,460.704,4300
+Standard Service,Hyundai,ACCENT VIVA,Yes,0,0,2639,316.704,2956
+Standard Service,Hyundai,CRETA,0,Yes,0,3759,451.104,4210
+Standard Service,Hyundai,CRETA,Yes,0,0,2879,345.504,3225
+Standard Service,Hyundai,CRETA,0,0,Yes,2879,345.504,3225
+Standard Service,Hyundai,ELANTRA,0,Yes,0,3759,451.104,4210
+Standard Service,Hyundai,ELANTRA,Yes,0,0,3039,364.704,3404
+Standard Service,Hyundai,ELANTRA,0,0,Yes,3039,364.704,3404
+Standard Service,Hyundai,ELITE i20,0,0,Yes,2479,297.504,2777
+Standard Service,Hyundai,ELITE i20,0,Yes,0,2959,355.104,3314
+Standard Service,Hyundai,ELITE i20,Yes,0,0,2479,297.504,2777
+Standard Service,Hyundai,EON,Yes,0,0,2559,307.104,2866
+Standard Service,Hyundai,EON,0,0,Yes,2559,307.104,2866
+Standard Service,Hyundai,GETZ,Yes,0,0,2479,297.504,2777
+Standard Service,Hyundai,GETZ,0,0,Yes,2479,297.504,2777
+Standard Service,Hyundai,GETZ PRIME,0,Yes,0,3359,403.104,3762
+Standard Service,Hyundai,GRAND i10,0,0,Yes,2479,297.504,2777
+Standard Service,Hyundai,GRAND i10,0,Yes,0,2959,355.104,3314
+Standard Service,Hyundai,GRAND i10,Yes,0,0,2479,297.504,2777
+Standard Service,Hyundai,i10,Yes,0,0,2319,278.304,2598
+Standard Service,Hyundai,i10,0,0,Yes,2319,278.304,2598
+Standard Service,Hyundai,i20,0,0,Yes,2479,297.504,2777
+Standard Service,Hyundai,i20,0,Yes,0,2959,355.104,3314
+Standard Service,Hyundai,i20,Yes,0,0,2479,297.504,2777
+Standard Service,Hyundai,i20 ACTIVE,0,Yes,0,2479,297.504,2777
+Standard Service,Hyundai,i20 ACTIVE,Yes,0,0,2959,355.104,3314
+Standard Service,Hyundai,i20 ACTIVE,0,0,Yes,2479,297.504,2777
+Standard Service,Hyundai,SANTAFE,0,0,Yes,4959,595.104,5554
+Standard Service,Hyundai,SANTAFE,Yes,0,0,4959,595.104,5554
+Standard Service,Hyundai,SANTRO XING,0,0,Yes,2239,268.704,2508
+Standard Service,Hyundai,SANTRO XING,Yes,0,0,2239,268.704,2508
+Standard Service,Hyundai,SONATA,0,0,Yes,3039,364.704,3404
+Standard Service,Hyundai,SONATA,0,Yes,0,3759,451.104,4210
+Standard Service,Hyundai,SONATA,Yes,0,0,3039,364.704,3404
+Standard Service,Hyundai,SONATA EMBRA,0,Yes,0,3759,451.104,4210
+Standard Service,Hyundai,SONATA EMBRA,Yes,0,0,3039,364.704,3404
+Standard Service,Hyundai,SONATA EMBRA,0,0,Yes,3039,364.704,3404
+Standard Service,Hyundai,SONATA TRANSFORM,0,Yes,0,3759,451.104,4210
+Standard Service,Hyundai,SONATA TRANSFORM,Yes,0,0,3039,364.704,3404
+Standard Service,Hyundai,SONATA TRANSFORM,0,0,Yes,3039,364.704,3404
+Standard Service,Hyundai,TUCSON,0,Yes,0,4959,595.104,5554
+Standard Service,Hyundai,VERNA,0,Yes,0,3759,451.104,4210
+Standard Service,Hyundai,VERNA,Yes,0,0,2799,335.904,3135
+Standard Service,Hyundai,VERNA,0,0,Yes,2799,335.904,3135
+Standard Service,Hyundai,VERNA FLUIDIC,0,0,Yes,2799,335.904,3135
+Standard Service,Hyundai,VERNA FLUIDIC,0,Yes,0,3759,451.104,4210
+Standard Service,Hyundai,VERNA FLUIDIC,Yes,0,0,2799,335.904,3135
+Standard Service,Hyundai,VERNA TRANSFORM,0,Yes,0,3759,451.104,4210
+Standard Service,Hyundai,VERNA TRANSFORM,Yes,0,0,2799,335.904,3135
+Standard Service,Hyundai,VERNA TRANSFORM,0,0,Yes,2799,335.904,3135
+Standard Service,Hyundai,XCENT,0,0,Yes,2479,297.504,2777
+Standard Service,Hyundai,XCENT,0,Yes,0,3359,403.104,3762
+Standard Service,Hyundai,XCENT,Yes,0,0,2479,297.504,2777
+Standard Service,Mahindra,BOLERO,0,Yes,0,4159,499.104,4658
+Standard Service,Mahindra,QUANTO ,0,Yes,0,4159,499.104,4658
+Standard Service,Mahindra,SCORPIO,0,Yes,0,4159,499.104,4658
+Standard Service,Mahindra,SCORPIO GETAWAY,0,Yes,0,4159,499.104,4658
+Standard Service,Mahindra,THAR,0,Yes,0,4159,499.104,4658
+Standard Service,Mahindra,VERITO,0,Yes,0,4159,499.104,4658
+Standard Service,Mahindra,VERITO VIBE CS,0,Yes,0,4159,499.104,4658
+Standard Service,Mahindra,XUV 500,0,Yes,0,4159,499.104,4658
+Standard Service,Mahindra,XYLO,0,Yes,0,4159,499.104,4658
+Standard Service,Maruti Suzuki,800,Yes,0,0,1999,239.904,2239
+Standard Service,Maruti Suzuki,800,0,0,Yes,1999,239.904,2239
+Standard Service,Maruti Suzuki,A-STAR,0,0,Yes,2319,278.304,2598
+Standard Service,Maruti Suzuki,A-STAR,Yes,0,0,2319,278.304,2598
+Standard Service,Maruti Suzuki,ALTO,Yes,0,0,2239,268.704,2508
+Standard Service,Maruti Suzuki,ALTO,0,0,Yes,2239,268.704,2508
+Standard Service,Maruti Suzuki,ALTO 800,Yes,0,0,2239,268.704,2508
+Standard Service,Maruti Suzuki,ALTO 800,0,0,Yes,2239,268.704,2508
+Standard Service,Maruti Suzuki,ALTO K10,Yes,0,0,2239,268.704,2508
+Standard Service,Maruti Suzuki,ALTO K10,0,0,Yes,2239,268.704,2508
+Standard Service,Maruti Suzuki,BALENO,0,0,Yes,3199,383.904,3583
+Standard Service,Maruti Suzuki,BALENO,0,Yes,0,3759,451.104,4210
+Standard Service,Maruti Suzuki,BALENO,Yes,0,0,3199,383.904,3583
+Standard Service,Maruti Suzuki,CELERIO,0,Yes,0,3039,364.704,3404
+Standard Service,Maruti Suzuki,CELERIO,Yes,0,0,2479,297.504,2777
+Standard Service,Maruti Suzuki,CELERIO,0,0,Yes,2479,297.504,2777
+Standard Service,Maruti Suzuki,CIAZ,0,0,Yes,2799,335.904,3135
+Standard Service,Maruti Suzuki,CIAZ,0,Yes,0,3519,422.304,3942
+Standard Service,Maruti Suzuki,CIAZ,Yes,0,0,2799,335.904,3135
+Standard Service,Maruti Suzuki,EECO,Yes,0,0,2319,278.304,2598
+Standard Service,Maruti Suzuki,EECO,0,0,Yes,2319,278.304,2598
+Standard Service,Maruti Suzuki,ERTIGA,Yes,0,0,2879,345.504,3225
+Standard Service,Maruti Suzuki,ERTIGA,0,0,Yes,2879,345.504,3225
+Standard Service,Maruti Suzuki,ERTIGA,0,Yes,0,3039,364.704,3404
+Standard Service,Maruti Suzuki,ESTEEM,Yes,0,0,2319,278.304,2598
+Standard Service,Maruti Suzuki,ESTEEM,0,0,Yes,2319,278.304,2598
+Standard Service,Maruti Suzuki,ESTILIO,Yes,0,0,2319,278.304,2598
+Standard Service,Maruti Suzuki,ESTILIO,0,0,Yes,2319,278.304,2598
+Standard Service,Maruti Suzuki,GRAND VITARA,0,Yes,0,3919,470.304,4390
+Standard Service,Maruti Suzuki,GRAND VITARA,Yes,0,0,3279,393.504,3673
+Standard Service,Maruti Suzuki,GRAND VITARA,0,0,Yes,3279,393.504,3673
+Standard Service,Maruti Suzuki,GYPSY,0,0,Yes,3039,364.704,3404
+Standard Service,Maruti Suzuki,GYPSY,0,Yes,0,3679,441.504,4121
+Standard Service,Maruti Suzuki,GYPSY,Yes,0,0,3039,364.704,3404
+Standard Service,Maruti Suzuki,KIZASHI,0,Yes,0,3919,470.304,4390
+Standard Service,Maruti Suzuki,KIZASHI,Yes,0,0,3279,393.504,3673
+Standard Service,Maruti Suzuki,KIZASHI,0,0,Yes,3279,393.504,3673
+Standard Service,Maruti Suzuki,OMNI,0,0,Yes,3039,364.704,3404
+Standard Service,Maruti Suzuki,OMNI,Yes,0,0,3039,364.704,3404
+Standard Service,Maruti Suzuki,RITZ,0,Yes,0,2959,355.104,3314
+Standard Service,Maruti Suzuki,RITZ,Yes,0,0,2479,297.504,2777
+Standard Service,Maruti Suzuki,RITZ,0,0,Yes,2479,297.504,2777
+Standard Service,Maruti Suzuki,S-CROSS,0,0,Yes,2319,278.304,2598
+Standard Service,Maruti Suzuki,S-CROSS,0,Yes,0,2639,316.704,2956
+Standard Service,Maruti Suzuki,S-CROSS,Yes,0,0,2319,278.304,2598
+Standard Service,Maruti Suzuki,SWIFT,0,Yes,0,2559,307.104,2866
+Standard Service,Maruti Suzuki,SWIFT,Yes,0,0,2319,278.304,2598
+Standard Service,Maruti Suzuki,SWIFT,0,0,Yes,2319,278.304,2598
+Standard Service,Maruti Suzuki,SWIFT DZIRE,0,0,Yes,2479,297.504,2777
+Standard Service,Maruti Suzuki,SWIFT DZIRE,0,Yes,0,2639,316.704,2956
+Standard Service,Maruti Suzuki,SWIFT DZIRE,Yes,0,0,2479,297.504,2777
+Standard Service,Maruti Suzuki,SX4,0,Yes,0,3279,393.504,3673
+Standard Service,Maruti Suzuki,SX4,Yes,0,0,2959,355.104,3314
+Standard Service,Maruti Suzuki,SX4,0,0,Yes,2959,355.104,3314
+Standard Service,Maruti Suzuki,VERSA,0,0,Yes,2799,335.904,3135
+Standard Service,Maruti Suzuki,VERSA,Yes,0,0,2799,335.904,3135
+Standard Service,Maruti Suzuki,WAGONR,Yes,0,0,2319,278.304,2598
+Standard Service,Maruti Suzuki,WAGONR,0,0,Yes,2319,278.304,2598
+Standard Service,Maruti Suzuki,ZEN,Yes,0,0,2319,278.304,2598
+Standard Service,Maruti Suzuki,ZEN,0,0,Yes,2319,278.304,2598
+Standard Service,Mitsubishi,PAJERO,0,Yes,0,5519,662.304,6182
+Standard Service,Mitsubishi,PAJERO SPORT,0,Yes,0,5519,662.304,6182
+Standard Service,Nissan,EVALIA,0,Yes,0,4159,499.104,4658
+Standard Service,Nissan,MICRA,0,0,Yes,3119,374.304,3494
+Standard Service,Nissan,MICRA,Yes,0,0,3119,374.304,3494
+Standard Service,Nissan,MICRA ACTIVE,0,0,Yes,3119,374.304,3494
+Standard Service,Nissan,MICRA ACTIVE,Yes,0,0,3119,374.304,3494
+Standard Service,Nissan,SUNNY,0,Yes,0,3839,460.704,4300
+Standard Service,Nissan,TEANA,0,Yes,0,4239,508.704,4748
+Standard Service,Nissan,TERRANO,0,Yes,0,4079,489.504,4569
+Standard Service,Nissan,X-TRAIL,0,Yes,0,4399,527.904,4927
+Standard Service,Renault,DUSTER,0,Yes,0,4079,489.504,4569
+Standard Service,Renault,FLUENCE,0,0,Yes,3279,393.504,3673
+Standard Service,Renault,FLUENCE,0,Yes,0,3839,460.704,4300
+Standard Service,Renault,FLUENCE,Yes,0,0,3279,393.504,3673
+Standard Service,Renault,KOLEOS,0,Yes,0,4399,527.904,4927
+Standard Service,Renault,LODGY,0,Yes,0,4159,499.104,4658
+Standard Service,Renault,PULSE,0,Yes,0,3119,374.304,3494
+Standard Service,Renault,PULSE,Yes,0,0,2639,316.704,2956
+Standard Service,Renault,PULSE,0,0,Yes,2639,316.704,2956
+Standard Service,Renault,SCALA,0,0,Yes,3279,393.504,3673
+Standard Service,Renault,SCALA,0,Yes,0,3839,460.704,4300
+Standard Service,Renault,SCALA,Yes,0,0,3279,393.504,3673
+Standard Service,Skoda,FABIA,0,Yes,0,4079,489.504,4569
+Standard Service,Skoda,FABIA,Yes,0,0,4079,489.504,4569
+Standard Service,Skoda,FABIA,0,0,Yes,4079,489.504,4569
+Standard Service,Skoda,FABIA SCOUT,0,0,Yes,4079,489.504,4569
+Standard Service,Skoda,FABIA SCOUT,0,Yes,0,4079,489.504,4569
+Standard Service,Skoda,FABIA SCOUT,Yes,0,0,4079,489.504,4569
+Standard Service,Skoda,LAURA,0,Yes,0,4559,547.104,5106
+Standard Service,Skoda,OCTAVIA,0,Yes,0,4559,547.104,5106
+Standard Service,Skoda,OCTAVIA,Yes,0,0,4239,508.704,4748
+Standard Service,Skoda,OCTAVIA,0,0,Yes,4239,508.704,4748
+Standard Service,Skoda,RAPID,0,0,Yes,4239,508.704,4748
+Standard Service,Skoda,RAPID,0,Yes,0,4559,547.104,5106
+Standard Service,Skoda,RAPID,Yes,0,0,4239,508.704,4748
+Standard Service,Skoda,SUPERB,0,Yes,0,5279,633.504,5913
+Standard Service,Skoda,SUPERB,Yes,0,0,5279,633.504,5913
+Standard Service,Skoda,SUPERB,0,0,Yes,5279,633.504,5913
+Standard Service,Skoda,YETI,0,Yes,0,5279,633.504,5913
+Standard Service,TATA,ARIA,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,ARIA,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,ARIA,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,BOLT,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,BOLT,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,BOLT,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDICA,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDICA,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDICA,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDICA eV2,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDICA eV2,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDICA eV2,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDICA V2,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDICA V2,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDICA V2,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDICA VISTA,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDICA VISTA,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDICA VISTA,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDIGO,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDIGO,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDIGO,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDIGO CS,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDIGO CS,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDIGO CS,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDIGO eCS,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDIGO eCS,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDIGO eCS,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDIGO MARINA,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,INDIGO MARINA,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDIGO MARINA,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDIGO XL,0,Yes,0,3119,374.304,3494
+Standard Service,TATA,INDIGO XL,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,INDIGO XL,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,MANZA,0,0,Yes,2559,307.104,2866
+Standard Service,TATA,MANZA,0,Yes,0,3359,403.104,3762
+Standard Service,TATA,MANZA,Yes,0,0,2559,307.104,2866
+Standard Service,TATA,NANO,Yes,0,0,1919,230.304,2150
+Standard Service,TATA,NANO,0,0,Yes,1919,230.304,2150
+Standard Service,TATA,NANO GENX,0,0,Yes,1919,230.304,2150
+Standard Service,TATA,NANO GENX,Yes,0,0,1919,230.304,2150
+Standard Service,TATA,SAFARI,0,Yes,0,5119,614.304,5734
+Standard Service,TATA,SAFARI STORME,0,Yes,0,5119,614.304,5734
+Standard Service,TATA,SUMO GOLD,0,Yes,0,4639,556.704,5196
+Standard Service,TATA,SUMO GRANDE,0,Yes,0,4639,556.704,5196
+Standard Service,TATA,SUMO GRANDE MK II,0,Yes,0,4639,556.704,5196
+Standard Service,TATA,SUMO SPACIO,0,Yes,0,4639,556.704,5196
+Standard Service,TATA,SUMO VICTA,0,Yes,0,4639,556.704,5196
+Standard Service,TATA,ZEST,0,Yes,0,3359,403.104,3762
+Standard Service,TATA,ZEST,Yes,0,0,2879,345.504,3225
+Standard Service,TATA,ZEST,0,0,Yes,2879,345.504,3225
+Standard Service,Toyota,CAMRY,0,0,Yes,5599,671.904,6271
+Standard Service,Toyota,CAMRY,Yes,0,0,5599,671.904,6271
+Standard Service,Toyota,COROLLA,0,Yes,0,4079,489.504,4569
+Standard Service,Toyota,COROLLA,Yes,0,0,4079,489.504,4569
+Standard Service,Toyota,COROLLA,0,0,Yes,4079,489.504,4569
+Standard Service,Toyota,COROLLA ALTIS,0,0,Yes,4079,489.504,4569
+Standard Service,Toyota,COROLLA ALTIS,0,Yes,0,4399,527.904,4927
+Standard Service,Toyota,COROLLA ALTIS,Yes,0,0,4079,489.504,4569
+Standard Service,Toyota,ETIOS,0,Yes,0,2959,355.104,3314
+Standard Service,Toyota,ETIOS,Yes,0,0,2479,297.504,2777
+Standard Service,Toyota,ETIOS,0,0,Yes,2479,297.504,2777
+Standard Service,Toyota,ETIOS CROSS,0,0,Yes,2479,297.504,2777
+Standard Service,Toyota,ETIOS CROSS,0,Yes,0,2959,355.104,3314
+Standard Service,Toyota,ETIOS CROSS,Yes,0,0,2479,297.504,2777
+Standard Service,Toyota,ETIOS LIVA,0,Yes,0,2959,355.104,3314
+Standard Service,Toyota,ETIOS LIVA,Yes,0,0,2479,297.504,2777
+Standard Service,Toyota,ETIOS LIVA,0,0,Yes,2479,297.504,2777
+Standard Service,Toyota,FORTUNER,0,Yes,0,6799,815.904,7615
+Standard Service,Toyota,INNOVA,0,Yes,0,6799,815.904,7615
+Standard Service,Toyota,LAND CRUISER,0,Yes,0,6959,835.104,7794
+Standard Service,Toyota,LAND CRUISER PRADO,0,Yes,0,6959,835.104,7794
+Standard Service,Volkswagen,CROSS POLO,0,Yes,0,3359,403.104,3762
+Standard Service,Volkswagen,CROSS POLO,Yes,0,0,3119,374.304,3494
+Standard Service,Volkswagen,CROSS POLO,0,0,Yes,3119,374.304,3494
+Standard Service,Volkswagen,JETTA,0,0,Yes,4159,499.104,4658
+Standard Service,Volkswagen,JETTA,0,Yes,0,4319,518.304,4838
+Standard Service,Volkswagen,JETTA,Yes,0,0,4159,499.104,4658
+Standard Service,Volkswagen,PASSAT,0,Yes,0,4319,518.304,4838
+Standard Service,Volkswagen,PASSAT,Yes,0,0,4159,499.104,4658
+Standard Service,Volkswagen,PASSAT,0,0,Yes,4159,499.104,4658
+Standard Service,Volkswagen,POLO,0,0,Yes,3119,374.304,3494
+Standard Service,Volkswagen,POLO,0,Yes,0,3359,403.104,3762
+Standard Service,Volkswagen,POLO,Yes,0,0,3119,374.304,3494
+Standard Service,Volkswagen,VENTO,Yes,0,0,4159,499.104,4658
+Standard Service,Volkswagen,VENTO,0,0,Yes,4159,499.104,4658
+Standard Service,Volkswagen,VENTO,0,Yes,0,4319,518.304,4838
+Comprehensive Service,Chevrolet,AVEO,0,Yes,0,5839,700.704,6540
+Comprehensive Service,Chevrolet,AVEO,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Chevrolet,AVEO,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Chevrolet,BEAT,0,0,Yes,4239,508.704,4748
+Comprehensive Service,Chevrolet,BEAT,0,Yes,0,5439,652.704,6092
+Comprehensive Service,Chevrolet,BEAT,Yes,0,0,4239,508.704,4748
+Comprehensive Service,Chevrolet,CAPTIVA,0,Yes,0,7919,950.304,8870
+Comprehensive Service,Chevrolet,CRUZE,0,0,Yes,6319,758.304,7078
+Comprehensive Service,Chevrolet,CRUZE,0,Yes,0,8079,969.504,9049
+Comprehensive Service,Chevrolet,CRUZE,Yes,0,0,6319,758.304,7078
+Comprehensive Service,Chevrolet,ENJOY,0,Yes,0,5999,719.904,6719
+Comprehensive Service,Chevrolet,ENJOY,Yes,0,0,4959,595.104,5554
+Comprehensive Service,Chevrolet,ENJOY,0,0,Yes,4959,595.104,5554
+Comprehensive Service,Chevrolet,FORESTER,0,Yes,0,8559,1027.104,9586
+Comprehensive Service,Chevrolet,FORESTER,Yes,0,0,7919,950.304,8870
+Comprehensive Service,Chevrolet,FORESTER,0,0,Yes,7919,950.304,8870
+Comprehensive Service,Chevrolet,OPTRA,0,0,Yes,5199,623.904,5823
+Comprehensive Service,Chevrolet,OPTRA,0,Yes,0,7919,950.304,8870
+Comprehensive Service,Chevrolet,OPTRA,Yes,0,0,5199,623.904,5823
+Comprehensive Service,Chevrolet,OPTRA MAGNUM,0,Yes,0,7919,950.304,8870
+Comprehensive Service,Chevrolet,OPTRA MAGNUM,Yes,0,0,5199,623.904,5823
+Comprehensive Service,Chevrolet,OPTRA MAGNUM,0,0,Yes,5199,623.904,5823
+Comprehensive Service,Chevrolet,OPTRA SRV,0,0,Yes,5199,623.904,5823
+Comprehensive Service,Chevrolet,OPTRA SRV,Yes,0,0,5199,623.904,5823
+Comprehensive Service,Chevrolet,SAIL,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Chevrolet,SAIL,0,Yes,0,5599,671.904,6271
+Comprehensive Service,Chevrolet,SAIL,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Chevrolet,SAIL HATCHBACK,Yes,0,0,4639,556.704,5196
+Comprehensive Service,Chevrolet,SAIL HATCHBACK,0,0,Yes,4639,556.704,5196
+Comprehensive Service,Chevrolet,SAIL HATCHBACK,0,Yes,0,5439,652.704,6092
+Comprehensive Service,Chevrolet,SPARK,Yes,0,0,3679,441.504,4121
+Comprehensive Service,Chevrolet,SPARK,0,0,Yes,3679,441.504,4121
+Comprehensive Service,Chevrolet,TAVERA,0,Yes,0,6719,806.304,7526
+Comprehensive Service,Chevrolet,UVA,0,0,Yes,4399,527.904,4927
+Comprehensive Service,Chevrolet,UVA,0,Yes,0,5279,633.504,5913
+Comprehensive Service,Chevrolet,UVA,Yes,0,0,4399,527.904,4927
+Comprehensive Service,Daewoo,CIELO,0,0,Yes,5039,604.704,5644
+Comprehensive Service,Daewoo,CIELO,Yes,0,0,5039,604.704,5644
+Comprehensive Service,Daewoo,MATIZ,0,0,Yes,3679,441.504,4121
+Comprehensive Service,Daewoo,MATIZ,Yes,0,0,3679,441.504,4121
+Comprehensive Service,Daewoo,NEXIA,0,0,Yes,5039,604.704,5644
+Comprehensive Service,Daewoo,NEXIA,Yes,0,0,5039,604.704,5644
+Comprehensive Service,Datsun,GO,Yes,0,0,3679,441.504,4121
+Comprehensive Service,Datsun,GO,0,0,Yes,3679,441.504,4121
+Comprehensive Service,Datsun,GO PLUS,Yes,0,0,3679,441.504,4121
+Comprehensive Service,Datsun,GO PLUS,0,0,Yes,3679,441.504,4121
+Comprehensive Service,Fiat,ADVENTURE,0,Yes,0,6079,729.504,6809
+Comprehensive Service,Fiat,ADVENTURE,Yes,0,0,4399,527.904,4927
+Comprehensive Service,Fiat,ADVENTURE,0,0,Yes,4399,527.904,4927
+Comprehensive Service,Fiat,AVVENTURA,0,0,Yes,4399,527.904,4927
+Comprehensive Service,Fiat,AVVENTURA,0,Yes,0,6079,729.504,6809
+Comprehensive Service,Fiat,AVVENTURA,Yes,0,0,4399,527.904,4927
+Comprehensive Service,Fiat,LINEA,0,Yes,0,6159,739.104,6898
+Comprehensive Service,Fiat,LINEA,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Fiat,LINEA,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Fiat,LINEA CLASSIC,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Fiat,LINEA CLASSIC,0,Yes,0,6159,739.104,6898
+Comprehensive Service,Fiat,LINEA CLASSIC,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Fiat,PALIO D,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Fiat,PALIO D,0,Yes,0,5599,671.904,6271
+Comprehensive Service,Fiat,PALIO D,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Fiat,PALIO NV,0,Yes,0,5599,671.904,6271
+Comprehensive Service,Fiat,PALIO NV,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Fiat,PALIO NV,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Fiat,PALIO STILE,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Fiat,PALIO STILE,0,Yes,0,5599,671.904,6271
+Comprehensive Service,Fiat,PALIO STILE,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Fiat,PETRA,0,Yes,0,5599,671.904,6271
+Comprehensive Service,Fiat,PETRA,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Fiat,PETRA,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Fiat,PUNTO,0,0,Yes,4159,499.104,4658
+Comprehensive Service,Fiat,PUNTO,0,Yes,0,6079,729.504,6809
+Comprehensive Service,Fiat,PUNTO,Yes,0,0,4159,499.104,4658
+Comprehensive Service,Fiat,PUNTO EVO,0,Yes,0,4159,499.104,4658
+Comprehensive Service,Fiat,UNO,Yes,0,0,4159,499.104,4658
+Comprehensive Service,Fiat,UNO,0,0,Yes,4159,499.104,4658
+Comprehensive Service,Ford,ECO SPORT,0,Yes,0,5599,671.904,6271
+Comprehensive Service,Ford,ECO SPORT,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Ford,ECO SPORT,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Ford,ENDEAVOUR,0,Yes,0,7279,873.504,8153
+Comprehensive Service,Ford,ESCORT,0,Yes,0,5839,700.704,6540
+Comprehensive Service,Ford,ESCORT,Yes,0,0,4799,575.904,5375
+Comprehensive Service,Ford,ESCORT,0,0,Yes,4799,575.904,5375
+Comprehensive Service,Ford,FIESTA,0,0,Yes,4799,575.904,5375
+Comprehensive Service,Ford,FIESTA,0,Yes,0,5839,700.704,6540
+Comprehensive Service,Ford,FIESTA,Yes,0,0,4799,575.904,5375
+Comprehensive Service,Ford,FIESTA CLASSIC,0,Yes,0,5839,700.704,6540
+Comprehensive Service,Ford,FIESTA CLASSIC,Yes,0,0,4799,575.904,5375
+Comprehensive Service,Ford,FIESTA CLASSIC,0,0,Yes,4799,575.904,5375
+Comprehensive Service,Ford,FIGO,0,Yes,0,5679,681.504,6361
+Comprehensive Service,Ford,FIGO,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Ford,FIGO,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Ford,FIGO ASPIRE,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Ford,FIGO ASPIRE,0,Yes,0,5679,681.504,6361
+Comprehensive Service,Ford,FIGO ASPIRE,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Ford,FUSION,0,Yes,0,5679,681.504,6361
+Comprehensive Service,Ford,FUSION,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Ford,FUSION,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Ford,IKON,0,0,Yes,4799,575.904,5375
+Comprehensive Service,Ford,IKON,0,Yes,0,5839,700.704,6540
+Comprehensive Service,Ford,IKON,Yes,0,0,4799,575.904,5375
+Comprehensive Service,Ford,MONDEO,0,Yes,0,5839,700.704,6540
+Comprehensive Service,Ford,MONDEO,Yes,0,0,4799,575.904,5375
+Comprehensive Service,Ford,MONDEO,0,0,Yes,4799,575.904,5375
+Comprehensive Service,Honda,ACCORD,0,0,Yes,5839,700.704,6540
+Comprehensive Service,Honda,ACCORD,Yes,0,0,5839,700.704,6540
+Comprehensive Service,Honda,AMAZE,0,Yes,0,5039,604.704,5644
+Comprehensive Service,Honda,AMAZE,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Honda,AMAZE,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Honda,BRIO,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Honda,BRIO,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Honda,CITY,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Honda,CITY,0,Yes,0,5199,623.904,5823
+Comprehensive Service,Honda,CITY,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Honda,CITY IVTEC,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Honda,CITY IVTEC,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Honda,CITY ZX,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Honda,CITY ZX,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Honda,CIVIC,Yes,0,0,5679,681.504,6361
+Comprehensive Service,Honda,CIVIC,0,0,Yes,5679,681.504,6361
+Comprehensive Service,Honda,CRV,Yes,0,0,5839,700.704,6540
+Comprehensive Service,Honda,CRV,0,0,Yes,5839,700.704,6540
+Comprehensive Service,Honda,JAZZ,Yes,0,0,4719,566.304,5286
+Comprehensive Service,Honda,JAZZ,0,0,Yes,4719,566.304,5286
+Comprehensive Service,Honda,JAZZ,0,Yes,0,5199,623.904,5823
+Comprehensive Service,Honda,MOBILIO,0,Yes,0,5039,604.704,5644
+Comprehensive Service,Honda,MOBILIO,Yes,0,0,4559,547.104,5106
+Comprehensive Service,Honda,MOBILIO,0,0,Yes,4559,547.104,5106
+Comprehensive Service,Hyundai,ACCENT,0,0,Yes,3679,441.504,4121
+Comprehensive Service,Hyundai,ACCENT,0,Yes,0,6719,806.304,7526
+Comprehensive Service,Hyundai,ACCENT,Yes,0,0,3679,441.504,4121
+Comprehensive Service,Hyundai,ACCENT VIVA,0,Yes,0,6719,806.304,7526
+Comprehensive Service,Hyundai,ACCENT VIVA,Yes,0,0,3679,441.504,4121
+Comprehensive Service,Hyundai,ACCENT VIVA,0,0,Yes,3679,441.504,4121
+Comprehensive Service,Hyundai,CRETA,0,0,Yes,4239,508.704,4748
+Comprehensive Service,Hyundai,CRETA,0,Yes,0,6559,787.104,7346
+Comprehensive Service,Hyundai,CRETA,Yes,0,0,4239,508.704,4748
+Comprehensive Service,Hyundai,ELANTRA,Yes,0,0,4399,527.904,4927
+Comprehensive Service,Hyundai,ELANTRA,0,0,Yes,4399,527.904,4927
+Comprehensive Service,Hyundai,ELANTRA,0,Yes,0,6559,787.104,7346
+Comprehensive Service,Hyundai,ELITE i20,0,Yes,0,5439,652.704,6092
+Comprehensive Service,Hyundai,ELITE i20,Yes,0,0,3439,412.704,3852
+Comprehensive Service,Hyundai,ELITE i20,0,0,Yes,3439,412.704,3852
+Comprehensive Service,Hyundai,EON,0,0,Yes,3759,451.104,4210
+Comprehensive Service,Hyundai,EON,Yes,0,0,3759,451.104,4210
+Comprehensive Service,Hyundai,GETZ,0,0,Yes,3679,441.504,4121
+Comprehensive Service,Hyundai,GETZ,Yes,0,0,3679,441.504,4121
+Comprehensive Service,Hyundai,GETZ PRIME,0,Yes,0,5919,710.304,6630
+Comprehensive Service,Hyundai,GRAND i10,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Hyundai,GRAND i10,Yes,0,0,3759,451.104,4210
+Comprehensive Service,Hyundai,GRAND i10,0,0,Yes,3759,451.104,4210
+Comprehensive Service,Hyundai,i10,0,0,Yes,3439,412.704,3852
+Comprehensive Service,Hyundai,i10,Yes,0,0,3439,412.704,3852
+Comprehensive Service,Hyundai,i20,0,0,Yes,3439,412.704,3852
+Comprehensive Service,Hyundai,i20,0,Yes,0,5439,652.704,6092
+Comprehensive Service,Hyundai,i20,Yes,0,0,3439,412.704,3852
+Comprehensive Service,Hyundai,i20 ACTIVE,0,0,Yes,3439,412.704,3852
+Comprehensive Service,Hyundai,i20 ACTIVE,0,Yes,0,5439,652.704,6092
+Comprehensive Service,Hyundai,i20 ACTIVE,Yes,0,0,3439,412.704,3852
+Comprehensive Service,Hyundai,SANTAFE,Yes,0,0,8079,969.504,9049
+Comprehensive Service,Hyundai,SANTAFE,0,0,Yes,8079,969.504,9049
+Comprehensive Service,Hyundai,SANTRO XING,Yes,0,0,3199,383.904,3583
+Comprehensive Service,Hyundai,SANTRO XING,0,0,Yes,3199,383.904,3583
+Comprehensive Service,Hyundai,SONATA,0,Yes,0,6559,787.104,7346
+Comprehensive Service,Hyundai,SONATA,Yes,0,0,4399,527.904,4927
+Comprehensive Service,Hyundai,SONATA,0,0,Yes,4399,527.904,4927
+Comprehensive Service,Hyundai,SONATA EMBRA,0,0,Yes,4399,527.904,4927
+Comprehensive Service,Hyundai,SONATA EMBRA,0,Yes,0,6559,787.104,7346
+Comprehensive Service,Hyundai,SONATA EMBRA,Yes,0,0,4399,527.904,4927
+Comprehensive Service,Hyundai,SONATA TRANSFORM,Yes,0,0,4399,527.904,4927
+Comprehensive Service,Hyundai,SONATA TRANSFORM,0,0,Yes,4399,527.904,4927
+Comprehensive Service,Hyundai,SONATA TRANSFORM,0,Yes,0,6559,787.104,7346
+Comprehensive Service,Hyundai,TUCSON,0,Yes,0,8079,969.504,9049
+Comprehensive Service,Hyundai,VERNA,0,0,Yes,3919,470.304,4390
+Comprehensive Service,Hyundai,VERNA,0,Yes,0,6559,787.104,7346
+Comprehensive Service,Hyundai,VERNA,Yes,0,0,3919,470.304,4390
+Comprehensive Service,Hyundai,VERNA FLUIDIC,0,Yes,0,6559,787.104,7346
+Comprehensive Service,Hyundai,VERNA FLUIDIC,Yes,0,0,3919,470.304,4390
+Comprehensive Service,Hyundai,VERNA FLUIDIC,0,0,Yes,3919,470.304,4390
+Comprehensive Service,Hyundai,VERNA TRANSFORM,0,0,Yes,3919,470.304,4390
+Comprehensive Service,Hyundai,VERNA TRANSFORM,0,Yes,0,6559,787.104,7346
+Comprehensive Service,Hyundai,VERNA TRANSFORM,Yes,0,0,3919,470.304,4390
+Comprehensive Service,Hyundai,XCENT,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Hyundai,XCENT,Yes,0,0,3439,412.704,3852
+Comprehensive Service,Hyundai,XCENT,0,0,Yes,3439,412.704,3852
+Comprehensive Service,Mahindra,BOLERO,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Mahindra,QUANTO ,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Mahindra,SCORPIO,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Mahindra,SCORPIO GETAWAY,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Mahindra,THAR,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Mahindra,VERITO,0,Yes,0,5759,691.104,6450
+Comprehensive Service,Mahindra,VERITO VIBE CS,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Mahindra,XUV 500,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Mahindra,XYLO,0,Yes,0,6319,758.304,7078
+Comprehensive Service,Maruti Suzuki,800,0,0,Yes,2879,345.504,3225
+Comprehensive Service,Maruti Suzuki,800,Yes,0,0,2879,345.504,3225
+Comprehensive Service,Maruti Suzuki,A-STAR,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,A-STAR,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,ALTO,0,0,Yes,3279,393.504,3673
+Comprehensive Service,Maruti Suzuki,ALTO,Yes,0,0,3279,393.504,3673
+Comprehensive Service,Maruti Suzuki,ALTO 800,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,ALTO 800,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,ALTO K10,0,0,Yes,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,ALTO K10,Yes,0,0,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,BALENO,0,Yes,0,5759,691.104,6450
+Comprehensive Service,Maruti Suzuki,BALENO,Yes,0,0,4399,527.904,4927
+Comprehensive Service,Maruti Suzuki,BALENO,0,0,Yes,4399,527.904,4927
+Comprehensive Service,Maruti Suzuki,CELERIO,0,0,Yes,4879,585.504,5465
+Comprehensive Service,Maruti Suzuki,CELERIO,0,Yes,0,5039,604.704,5644
+Comprehensive Service,Maruti Suzuki,CELERIO,Yes,0,0,4879,585.504,5465
+Comprehensive Service,Maruti Suzuki,CIAZ,0,Yes,0,5039,604.704,5644
+Comprehensive Service,Maruti Suzuki,CIAZ,Yes,0,0,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,CIAZ,0,0,Yes,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,EECO,0,0,Yes,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,EECO,Yes,0,0,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,ERTIGA,0,0,Yes,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,ERTIGA,0,Yes,0,5039,604.704,5644
+Comprehensive Service,Maruti Suzuki,ERTIGA,Yes,0,0,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,ESTEEM,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,ESTEEM,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,ESTILIO,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,ESTILIO,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,GRAND VITARA,0,0,Yes,4879,585.504,5465
+Comprehensive Service,Maruti Suzuki,GRAND VITARA,0,Yes,0,6159,739.104,6898
+Comprehensive Service,Maruti Suzuki,GRAND VITARA,Yes,0,0,4879,585.504,5465
+Comprehensive Service,Maruti Suzuki,GYPSY,0,Yes,0,5919,710.304,6630
+Comprehensive Service,Maruti Suzuki,GYPSY,Yes,0,0,4639,556.704,5196
+Comprehensive Service,Maruti Suzuki,GYPSY,0,0,Yes,4639,556.704,5196
+Comprehensive Service,Maruti Suzuki,KIZASHI,0,0,Yes,4879,585.504,5465
+Comprehensive Service,Maruti Suzuki,KIZASHI,0,Yes,0,6159,739.104,6898
+Comprehensive Service,Maruti Suzuki,KIZASHI,Yes,0,0,4879,585.504,5465
+Comprehensive Service,Maruti Suzuki,OMNI,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,OMNI,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,RITZ,0,Yes,0,4639,556.704,5196
+Comprehensive Service,Maruti Suzuki,RITZ,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,RITZ,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,S-CROSS,0,Yes,0,4719,566.304,5286
+Comprehensive Service,Maruti Suzuki,S-CROSS,Yes,0,0,3759,451.104,4210
+Comprehensive Service,Maruti Suzuki,S-CROSS,0,0,Yes,3759,451.104,4210
+Comprehensive Service,Maruti Suzuki,SWIFT,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,SWIFT,0,Yes,0,4639,556.704,5196
+Comprehensive Service,Maruti Suzuki,SWIFT,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,SWIFT DZIRE,0,Yes,0,4719,566.304,5286
+Comprehensive Service,Maruti Suzuki,SWIFT DZIRE,Yes,0,0,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,SWIFT DZIRE,0,0,Yes,3519,422.304,3942
+Comprehensive Service,Maruti Suzuki,SX4,0,0,Yes,4159,499.104,4658
+Comprehensive Service,Maruti Suzuki,SX4,0,Yes,0,5279,633.504,5913
+Comprehensive Service,Maruti Suzuki,SX4,Yes,0,0,4159,499.104,4658
+Comprehensive Service,Maruti Suzuki,VERSA,Yes,0,0,3839,460.704,4300
+Comprehensive Service,Maruti Suzuki,VERSA,0,0,Yes,3839,460.704,4300
+Comprehensive Service,Maruti Suzuki,WAGONR,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,WAGONR,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,ZEN,0,0,Yes,3359,403.104,3762
+Comprehensive Service,Maruti Suzuki,ZEN,Yes,0,0,3359,403.104,3762
+Comprehensive Service,Mitsubishi,PAJERO,0,Yes,0,8799,1055.904,9855
+Comprehensive Service,Mitsubishi,PAJERO SPORT,0,Yes,0,8799,1055.904,9855
+Comprehensive Service,Nissan,EVALIA,0,Yes,0,7359,883.104,8242
+Comprehensive Service,Nissan,MICRA,Yes,0,0,5279,633.504,5913
+Comprehensive Service,Nissan,MICRA,0,0,Yes,5279,633.504,5913
+Comprehensive Service,Nissan,MICRA ACTIVE,Yes,0,0,5279,633.504,5913
+Comprehensive Service,Nissan,MICRA ACTIVE,0,0,Yes,5279,633.504,5913
+Comprehensive Service,Nissan,SUNNY,0,Yes,0,6159,739.104,6898
+Comprehensive Service,Nissan,TEANA,0,Yes,0,6639,796.704,7436
+Comprehensive Service,Nissan,TERRANO,0,Yes,0,7279,873.504,8153
+Comprehensive Service,Nissan,X-TRAIL,0,Yes,0,7599,911.904,8511
+Comprehensive Service,Renault,DUSTER,0,Yes,0,7279,873.504,8153
+Comprehensive Service,Renault,FLUENCE,0,0,Yes,4879,585.504,5465
+Comprehensive Service,Renault,FLUENCE,0,Yes,0,6159,739.104,6898
+Comprehensive Service,Renault,FLUENCE,Yes,0,0,4879,585.504,5465
+Comprehensive Service,Renault,KOLEOS,0,Yes,0,7599,911.904,8511
+Comprehensive Service,Renault,LODGY,0,Yes,0,7359,883.104,8242
+Comprehensive Service,Renault,PULSE,0,0,Yes,4159,499.104,4658
+Comprehensive Service,Renault,PULSE,0,Yes,0,5279,633.504,5913
+Comprehensive Service,Renault,PULSE,Yes,0,0,4159,499.104,4658
+Comprehensive Service,Renault,SCALA,0,Yes,0,6159,739.104,6898
+Comprehensive Service,Renault,SCALA,Yes,0,0,4879,585.504,5465
+Comprehensive Service,Renault,SCALA,0,0,Yes,4879,585.504,5465
+Comprehensive Service,Skoda,FABIA,0,0,Yes,6079,729.504,6809
+Comprehensive Service,Skoda,FABIA,0,Yes,0,6639,796.704,7436
+Comprehensive Service,Skoda,FABIA,Yes,0,0,6079,729.504,6809
+Comprehensive Service,Skoda,FABIA SCOUT,0,Yes,0,6639,796.704,7436
+Comprehensive Service,Skoda,FABIA SCOUT,Yes,0,0,6079,729.504,6809
+Comprehensive Service,Skoda,FABIA SCOUT,0,0,Yes,6079,729.504,6809
+Comprehensive Service,Skoda,LAURA,0,Yes,0,6719,806.304,7526
+Comprehensive Service,Skoda,OCTAVIA,0,0,Yes,6079,729.504,6809
+Comprehensive Service,Skoda,OCTAVIA,0,Yes,0,7039,844.704,7884
+Comprehensive Service,Skoda,OCTAVIA,Yes,0,0,6079,729.504,6809
+Comprehensive Service,Skoda,RAPID,0,Yes,0,7279,873.504,8153
+Comprehensive Service,Skoda,RAPID,Yes,0,0,6159,739.104,6898
+Comprehensive Service,Skoda,RAPID,0,0,Yes,6159,739.104,6898
+Comprehensive Service,Skoda,SUPERB,0,0,Yes,7199,863.904,8063
+Comprehensive Service,Skoda,SUPERB,0,Yes,0,8319,998.304,9318
+Comprehensive Service,Skoda,SUPERB,Yes,0,0,7199,863.904,8063
+Comprehensive Service,Skoda,YETI,0,Yes,0,8319,998.304,9318
+Comprehensive Service,TATA,ARIA,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,ARIA,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,ARIA,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,BOLT,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,BOLT,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,BOLT,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDICA,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDICA,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,INDICA,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDICA eV2,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDICA eV2,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDICA eV2,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,INDICA V2,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDICA V2,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,INDICA V2,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDICA VISTA,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDICA VISTA,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDICA VISTA,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDIGO,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO CS,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDIGO CS,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO CS,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO eCS,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO eCS,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDIGO eCS,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO MARINA,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDIGO MARINA,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO MARINA,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO XL,0,0,Yes,3279,393.504,3673
+Comprehensive Service,TATA,INDIGO XL,0,Yes,0,5839,700.704,6540
+Comprehensive Service,TATA,INDIGO XL,Yes,0,0,3279,393.504,3673
+Comprehensive Service,TATA,MANZA,0,Yes,0,6079,729.504,6809
+Comprehensive Service,TATA,MANZA,Yes,0,0,3759,451.104,4210
+Comprehensive Service,TATA,MANZA,0,0,Yes,3759,451.104,4210
+Comprehensive Service,TATA,NANO,0,0,Yes,2559,307.104,2866
+Comprehensive Service,TATA,NANO,Yes,0,0,2559,307.104,2866
+Comprehensive Service,TATA,NANO GENX,Yes,0,0,2559,307.104,2866
+Comprehensive Service,TATA,NANO GENX,0,0,Yes,2559,307.104,2866
+Comprehensive Service,TATA,SAFARI,0,Yes,0,8239,988.704,9228
+Comprehensive Service,TATA,SAFARI STORME,0,Yes,0,8239,988.704,9228
+Comprehensive Service,TATA,SUMO GOLD,0,Yes,0,7599,911.904,8511
+Comprehensive Service,TATA,SUMO GRANDE,0,Yes,0,7599,911.904,8511
+Comprehensive Service,TATA,SUMO GRANDE MK II,0,Yes,0,7599,911.904,8511
+Comprehensive Service,TATA,SUMO SPACIO,0,Yes,0,7599,911.904,8511
+Comprehensive Service,TATA,SUMO VICTA,0,Yes,0,7599,911.904,8511
+Comprehensive Service,TATA,ZEST,0,0,Yes,3759,451.104,4210
+Comprehensive Service,TATA,ZEST,0,Yes,0,5999,719.904,6719
+Comprehensive Service,TATA,ZEST,Yes,0,0,3759,451.104,4210
+Comprehensive Service,Toyota,CAMRY,Yes,0,0,7359,883.104,8242
+Comprehensive Service,Toyota,CAMRY,0,0,Yes,7359,883.104,8242
+Comprehensive Service,Toyota,COROLLA,0,Yes,0,6799,815.904,7615
+Comprehensive Service,Toyota,COROLLA,Yes,0,0,5439,652.704,6092
+Comprehensive Service,Toyota,COROLLA,0,0,Yes,5439,652.704,6092
+Comprehensive Service,Toyota,COROLLA ALTIS,0,Yes,0,6799,815.904,7615
+Comprehensive Service,Toyota,COROLLA ALTIS,Yes,0,0,5439,652.704,6092
+Comprehensive Service,Toyota,COROLLA ALTIS,0,0,Yes,5439,652.704,6092
+Comprehensive Service,Toyota,ETIOS,0,0,Yes,3519,422.304,3942
+Comprehensive Service,Toyota,ETIOS,0,Yes,0,4799,575.904,5375
+Comprehensive Service,Toyota,ETIOS,Yes,0,0,3519,422.304,3942
+Comprehensive Service,Toyota,ETIOS CROSS,0,Yes,0,4799,575.904,5375
+Comprehensive Service,Toyota,ETIOS CROSS,Yes,0,0,3519,422.304,3942
+Comprehensive Service,Toyota,ETIOS CROSS,0,0,Yes,3519,422.304,3942
+Comprehensive Service,Toyota,ETIOS LIVA,0,0,Yes,3519,422.304,3942
+Comprehensive Service,Toyota,ETIOS LIVA,0,Yes,0,4799,575.904,5375
+Comprehensive Service,Toyota,ETIOS LIVA,Yes,0,0,3519,422.304,3942
+Comprehensive Service,Toyota,FORTUNER,0,Yes,0,8639,1036.704,9676
+Comprehensive Service,Toyota,INNOVA,0,Yes,0,7359,883.104,8242
+Comprehensive Service,Toyota,LAND CRUISER,0,Yes,0,8479,1017.504,9497
+Comprehensive Service,Toyota,LAND CRUISER PRADO,0,Yes,0,8479,1017.504,9497
+Comprehensive Service,Volkswagen,CROSS POLO,0,0,Yes,4879,585.504,5465
+Comprehensive Service,Volkswagen,CROSS POLO,0,Yes,0,5599,671.904,6271
+Comprehensive Service,Volkswagen,CROSS POLO,Yes,0,0,4879,585.504,5465
+Comprehensive Service,Volkswagen,JETTA,0,Yes,0,7279,873.504,8153
+Comprehensive Service,Volkswagen,JETTA,Yes,0,0,6159,739.104,6898
+Comprehensive Service,Volkswagen,JETTA,0,0,Yes,6159,739.104,6898
+Comprehensive Service,Volkswagen,PASSAT,0,0,Yes,6159,739.104,6898
+Comprehensive Service,Volkswagen,PASSAT,0,Yes,0,7279,873.504,8153
+Comprehensive Service,Volkswagen,PASSAT,Yes,0,0,6159,739.104,6898
+Comprehensive Service,Volkswagen,POLO,0,Yes,0,5599,671.904,6271
+Comprehensive Service,Volkswagen,POLO,Yes,0,0,4879,585.504,5465
+Comprehensive Service,Volkswagen,POLO,0,0,Yes,4879,585.504,5465
+Comprehensive Service,Volkswagen,VENTO,0,0,Yes,5439,652.704,6092
+Comprehensive Service,Volkswagen,VENTO,0,Yes,0,5679,681.504,6361
+Comprehensive Service,Volkswagen,VENTO,Yes,0,0,5439,652.704,6092
+Basic Service,Chevrolet,AVEO,0,0,Yes,2399,287.904,2687
+Basic Service,Chevrolet,AVEO,0,Yes,0,2639,316.704,2956
+Basic Service,Chevrolet,AVEO,Yes,0,0,2399,287.904,2687
+Basic Service,Chevrolet,BEAT,0,Yes,0,2399,287.904,2687
+Basic Service,Chevrolet,BEAT,Yes,0,0,2239,268.704,2508
+Basic Service,Chevrolet,BEAT,0,0,Yes,2239,268.704,2508
+Basic Service,Chevrolet,CAPTIVA,0,Yes,0,3919,470.304,4390
+Basic Service,Chevrolet,CRUZE,0,Yes,0,3919,470.304,4390
+Basic Service,Chevrolet,CRUZE,Yes,0,0,3199,383.904,3583
+Basic Service,Chevrolet,CRUZE,0,0,Yes,3199,383.904,3583
+Basic Service,Chevrolet,ENJOY,0,Yes,0,3039,364.704,3404
+Basic Service,Chevrolet,ENJOY,Yes,0,0,2879,345.504,3225
+Basic Service,Chevrolet,ENJOY,0,0,Yes,2879,345.504,3225
+Basic Service,Chevrolet,FORESTER,0,0,Yes,3919,470.304,4390
+Basic Service,Chevrolet,FORESTER,0,Yes,0,4399,527.904,4927
+Basic Service,Chevrolet,FORESTER,Yes,0,0,3919,470.304,4390
+Basic Service,Chevrolet,OPTRA,0,Yes,0,3919,470.304,4390
+Basic Service,Chevrolet,OPTRA,Yes,0,0,2639,316.704,2956
+Basic Service,Chevrolet,OPTRA,0,0,Yes,2639,316.704,2956
+Basic Service,Chevrolet,OPTRA MAGNUM,0,0,Yes,2639,316.704,2956
+Basic Service,Chevrolet,OPTRA MAGNUM,0,Yes,0,3919,470.304,4390
+Basic Service,Chevrolet,OPTRA MAGNUM,Yes,0,0,2639,316.704,2956
+Basic Service,Chevrolet,OPTRA SRV,Yes,0,0,2639,316.704,2956
+Basic Service,Chevrolet,OPTRA SRV,0,0,Yes,2639,316.704,2956
+Basic Service,Chevrolet,SAIL,0,Yes,0,2479,297.504,2777
+Basic Service,Chevrolet,SAIL,Yes,0,0,2399,287.904,2687
+Basic Service,Chevrolet,SAIL,0,0,Yes,2399,287.904,2687
+Basic Service,Chevrolet,SAIL HATCHBACK,0,Yes,0,2319,278.304,2598
+Basic Service,Chevrolet,SAIL HATCHBACK,Yes,0,0,2319,278.304,2598
+Basic Service,Chevrolet,SAIL HATCHBACK,0,0,Yes,2319,278.304,2598
+Basic Service,Chevrolet,SPARK,0,0,Yes,2479,297.504,2777
+Basic Service,Chevrolet,SPARK,Yes,0,0,2479,297.504,2777
+Basic Service,Chevrolet,TAVERA,0,Yes,0,3359,403.104,3762
+Basic Service,Chevrolet,UVA,0,Yes,0,2319,278.304,2598
+Basic Service,Chevrolet,UVA,Yes,0,0,2319,278.304,2598
+Basic Service,Chevrolet,UVA,0,0,Yes,2319,278.304,2598
+Basic Service,Daewoo,CIELO,Yes,0,0,2559,307.104,2866
+Basic Service,Daewoo,CIELO,0,0,Yes,2559,307.104,2866
+Basic Service,Daewoo,MATIZ,Yes,0,0,1999,239.904,2239
+Basic Service,Daewoo,MATIZ,0,0,Yes,1999,239.904,2239
+Basic Service,Daewoo,NEXIA,0,0,Yes,2559,307.104,2866
+Basic Service,Daewoo,NEXIA,Yes,0,0,2559,307.104,2866
+Basic Service,Datsun,GO,0,0,Yes,1999,239.904,2239
+Basic Service,Datsun,GO,Yes,0,0,1999,239.904,2239
+Basic Service,Datsun,GO PLUS,0,0,Yes,1999,239.904,2239
+Basic Service,Datsun,GO PLUS,Yes,0,0,1999,239.904,2239
+Basic Service,Fiat,ADVENTURE,0,0,Yes,2399,287.904,2687
+Basic Service,Fiat,ADVENTURE,0,Yes,0,2639,316.704,2956
+Basic Service,Fiat,ADVENTURE,Yes,0,0,2399,287.904,2687
+Basic Service,Fiat,AVVENTURA,0,Yes,0,2639,316.704,2956
+Basic Service,Fiat,AVVENTURA,Yes,0,0,2399,287.904,2687
+Basic Service,Fiat,AVVENTURA,0,0,Yes,2399,287.904,2687
+Basic Service,Fiat,LINEA,0,0,Yes,2479,297.504,2777
+Basic Service,Fiat,LINEA,0,Yes,0,2639,316.704,2956
+Basic Service,Fiat,LINEA,Yes,0,0,2479,297.504,2777
+Basic Service,Fiat,LINEA CLASSIC,Yes,0,0,2479,297.504,2777
+Basic Service,Fiat,LINEA CLASSIC,0,0,Yes,2479,297.504,2777
+Basic Service,Fiat,LINEA CLASSIC,0,Yes,0,2479,297.504,2777
+Basic Service,Fiat,PALIO D,0,Yes,0,2479,297.504,2777
+Basic Service,Fiat,PALIO D,Yes,0,0,2319,278.304,2598
+Basic Service,Fiat,PALIO D,0,0,Yes,2319,278.304,2598
+Basic Service,Fiat,PALIO NV,0,0,Yes,2319,278.304,2598
+Basic Service,Fiat,PALIO NV,0,Yes,0,2479,297.504,2777
+Basic Service,Fiat,PALIO NV,Yes,0,0,2319,278.304,2598
+Basic Service,Fiat,PALIO STILE,0,Yes,0,2479,297.504,2777
+Basic Service,Fiat,PALIO STILE,Yes,0,0,2319,278.304,2598
+Basic Service,Fiat,PALIO STILE,0,0,Yes,2319,278.304,2598
+Basic Service,Fiat,PETRA,0,0,Yes,2319,278.304,2598
+Basic Service,Fiat,PETRA,0,Yes,0,2479,297.504,2777
+Basic Service,Fiat,PETRA,Yes,0,0,2319,278.304,2598
+Basic Service,Fiat,PUNTO,Yes,0,0,2239,268.704,2508
+Basic Service,Fiat,PUNTO,0,0,Yes,2239,268.704,2508
+Basic Service,Fiat,PUNTO,0,Yes,0,2639,316.704,2956
+Basic Service,Fiat,PUNTO EVO,0,Yes,0,2239,268.704,2508
+Basic Service,Fiat,UNO,0,0,Yes,2239,268.704,2508
+Basic Service,Fiat,UNO,Yes,0,0,2239,268.704,2508
+Basic Service,Ford,ECO SPORT,0,0,Yes,2399,287.904,2687
+Basic Service,Ford,ECO SPORT,0,Yes,0,2639,316.704,2956
+Basic Service,Ford,ECO SPORT,Yes,0,0,2399,287.904,2687
+Basic Service,Ford,ENDEAVOUR,0,Yes,0,3759,451.104,4210
+Basic Service,Ford,ESCORT,0,0,Yes,2479,297.504,2777
+Basic Service,Ford,ESCORT,0,Yes,0,2639,316.704,2956
+Basic Service,Ford,ESCORT,Yes,0,0,2479,297.504,2777
+Basic Service,Ford,FIESTA,0,Yes,0,2639,316.704,2956
+Basic Service,Ford,FIESTA,Yes,0,0,2479,297.504,2777
+Basic Service,Ford,FIESTA,0,0,Yes,2479,297.504,2777
+Basic Service,Ford,FIESTA CLASSIC,0,0,Yes,2479,297.504,2777
+Basic Service,Ford,FIESTA CLASSIC,0,Yes,0,2639,316.704,2956
+Basic Service,Ford,FIESTA CLASSIC,Yes,0,0,2479,297.504,2777
+Basic Service,Ford,FIGO,0,0,Yes,2399,287.904,2687
+Basic Service,Ford,FIGO,0,Yes,0,2479,297.504,2777
+Basic Service,Ford,FIGO,Yes,0,0,2399,287.904,2687
+Basic Service,Ford,FIGO ASPIRE,0,Yes,0,2479,297.504,2777
+Basic Service,Ford,FIGO ASPIRE,Yes,0,0,2399,287.904,2687
+Basic Service,Ford,FIGO ASPIRE,0,0,Yes,2399,287.904,2687
+Basic Service,Ford,FUSION,0,0,Yes,2399,287.904,2687
+Basic Service,Ford,FUSION,0,Yes,0,2479,297.504,2777
+Basic Service,Ford,FUSION,Yes,0,0,2399,287.904,2687
+Basic Service,Ford,IKON,0,Yes,0,2639,316.704,2956
+Basic Service,Ford,IKON,Yes,0,0,2479,297.504,2777
+Basic Service,Ford,IKON,0,0,Yes,2479,297.504,2777
+Basic Service,Ford,MONDEO,0,0,Yes,2479,297.504,2777
+Basic Service,Ford,MONDEO,0,Yes,0,2639,316.704,2956
+Basic Service,Ford,MONDEO,Yes,0,0,2479,297.504,2777
+Basic Service,Honda,ACCORD,0,0,Yes,3039,364.704,3404
+Basic Service,Honda,ACCORD,Yes,0,0,3039,364.704,3404
+Basic Service,Honda,AMAZE,0,0,Yes,2319,278.304,2598
+Basic Service,Honda,AMAZE,0,Yes,0,2399,287.904,2687
+Basic Service,Honda,AMAZE,Yes,0,0,2319,278.304,2598
+Basic Service,Honda,BRIO,Yes,0,0,2319,278.304,2598
+Basic Service,Honda,BRIO,0,0,Yes,2319,278.304,2598
+Basic Service,Honda,CITY,0,Yes,0,2479,297.504,2777
+Basic Service,Honda,CITY,Yes,0,0,2399,287.904,2687
+Basic Service,Honda,CITY,0,0,Yes,2399,287.904,2687
+Basic Service,Honda,CITY IVTEC,0,0,Yes,2399,287.904,2687
+Basic Service,Honda,CITY IVTEC,Yes,0,0,2399,287.904,2687
+Basic Service,Honda,CITY ZX,0,0,Yes,2399,287.904,2687
+Basic Service,Honda,CITY ZX,Yes,0,0,2399,287.904,2687
+Basic Service,Honda,CIVIC,0,0,Yes,2959,355.104,3314
+Basic Service,Honda,CIVIC,Yes,0,0,2959,355.104,3314
+Basic Service,Honda,CRV,Yes,0,0,3039,364.704,3404
+Basic Service,Honda,CRV,0,0,Yes,3039,364.704,3404
+Basic Service,Honda,JAZZ,0,Yes,0,2479,297.504,2777
+Basic Service,Honda,JAZZ,Yes,0,0,2399,287.904,2687
+Basic Service,Honda,JAZZ,0,0,Yes,2399,287.904,2687
+Basic Service,Honda,MOBILIO,0,0,Yes,2319,278.304,2598
+Basic Service,Honda,MOBILIO,0,Yes,0,2399,287.904,2687
+Basic Service,Honda,MOBILIO,Yes,0,0,2319,278.304,2598
+Basic Service,Hyundai,ACCENT,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,ACCENT,Yes,0,0,2159,259.104,2418
+Basic Service,Hyundai,ACCENT,0,0,Yes,2159,259.104,2418
+Basic Service,Hyundai,ACCENT VIVA,0,0,Yes,2159,259.104,2418
+Basic Service,Hyundai,ACCENT VIVA,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,ACCENT VIVA,Yes,0,0,2159,259.104,2418
+Basic Service,Hyundai,CRETA,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,CRETA,Yes,0,0,2319,278.304,2598
+Basic Service,Hyundai,CRETA,0,0,Yes,2319,278.304,2598
+Basic Service,Hyundai,ELANTRA,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,ELANTRA,Yes,0,0,2399,287.904,2687
+Basic Service,Hyundai,ELANTRA,0,0,Yes,2399,287.904,2687
+Basic Service,Hyundai,ELITE i20,0,0,Yes,2079,249.504,2329
+Basic Service,Hyundai,ELITE i20,0,Yes,0,2079,249.504,2329
+Basic Service,Hyundai,ELITE i20,Yes,0,0,2079,249.504,2329
+Basic Service,Hyundai,EON,Yes,0,0,2079,249.504,2329
+Basic Service,Hyundai,EON,0,0,Yes,2079,249.504,2329
+Basic Service,Hyundai,GETZ,Yes,0,0,1999,239.904,2239
+Basic Service,Hyundai,GETZ,0,0,Yes,1999,239.904,2239
+Basic Service,Hyundai,GETZ PRIME,0,Yes,0,2639,316.704,2956
+Basic Service,Hyundai,GRAND i10,0,0,Yes,2079,249.504,2329
+Basic Service,Hyundai,GRAND i10,0,Yes,0,2799,335.904,3135
+Basic Service,Hyundai,GRAND i10,Yes,0,0,2079,249.504,2329
+Basic Service,Hyundai,i10,Yes,0,0,1919,230.304,2150
+Basic Service,Hyundai,i10,0,0,Yes,1919,230.304,2150
+Basic Service,Hyundai,i20,0,0,Yes,2079,249.504,2329
+Basic Service,Hyundai,i20,0,Yes,0,2079,249.504,2329
+Basic Service,Hyundai,i20,Yes,0,0,2079,249.504,2329
+Basic Service,Hyundai,i20 ACTIVE,0,Yes,0,2079,249.504,2329
+Basic Service,Hyundai,i20 ACTIVE,Yes,0,0,2079,249.504,2329
+Basic Service,Hyundai,i20 ACTIVE,0,0,Yes,2079,249.504,2329
+Basic Service,Hyundai,SANTAFE,0,0,Yes,3999,479.904,4479
+Basic Service,Hyundai,SANTAFE,Yes,0,0,3999,479.904,4479
+Basic Service,Hyundai,SANTRO XING,0,0,Yes,1759,211.104,1970
+Basic Service,Hyundai,SANTRO XING,Yes,0,0,1759,211.104,1970
+Basic Service,Hyundai,SONATA,0,0,Yes,2399,287.904,2687
+Basic Service,Hyundai,SONATA,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,SONATA,Yes,0,0,2399,287.904,2687
+Basic Service,Hyundai,SONATA EMBRA,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,SONATA EMBRA,Yes,0,0,2399,287.904,2687
+Basic Service,Hyundai,SONATA EMBRA,0,0,Yes,2399,287.904,2687
+Basic Service,Hyundai,SONATA TRANSFORM,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,SONATA TRANSFORM,Yes,0,0,2399,287.904,2687
+Basic Service,Hyundai,SONATA TRANSFORM,0,0,Yes,2399,287.904,2687
+Basic Service,Hyundai,TUCSON,0,Yes,0,3999,479.904,4479
+Basic Service,Hyundai,VERNA,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,VERNA,Yes,0,0,2239,268.704,2508
+Basic Service,Hyundai,VERNA,0,0,Yes,2239,268.704,2508
+Basic Service,Hyundai,VERNA FLUIDIC,0,0,Yes,2239,268.704,2508
+Basic Service,Hyundai,VERNA FLUIDIC,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,VERNA FLUIDIC,Yes,0,0,2239,268.704,2508
+Basic Service,Hyundai,VERNA TRANSFORM,0,Yes,0,3039,364.704,3404
+Basic Service,Hyundai,VERNA TRANSFORM,Yes,0,0,2239,268.704,2508
+Basic Service,Hyundai,VERNA TRANSFORM,0,0,Yes,2239,268.704,2508
+Basic Service,Hyundai,XCENT,0,0,Yes,1999,239.904,2239
+Basic Service,Hyundai,XCENT,0,Yes,0,2639,316.704,2956
+Basic Service,Hyundai,XCENT,Yes,0,0,1999,239.904,2239
+Basic Service,Mahindra,BOLERO,0,Yes,0,3359,403.104,3762
+Basic Service,Mahindra,QUANTO ,0,Yes,0,3359,403.104,3762
+Basic Service,Mahindra,SCORPIO,0,Yes,0,3359,403.104,3762
+Basic Service,Mahindra,SCORPIO GETAWAY,0,Yes,0,3359,403.104,3762
+Basic Service,Mahindra,THAR,0,Yes,0,3359,403.104,3762
+Basic Service,Mahindra,VERITO,0,Yes,0,3359,403.104,3762
+Basic Service,Mahindra,VERITO VIBE CS,0,Yes,0,3359,403.104,3762
+Basic Service,Mahindra,XUV 500,0,Yes,0,3359,403.104,3762
+Basic Service,Mahindra,XYLO,0,Yes,0,3359,403.104,3762
+Basic Service,Maruti Suzuki,800,Yes,0,0,1599,191.904,1791
+Basic Service,Maruti Suzuki,800,0,0,Yes,1599,191.904,1791
+Basic Service,Maruti Suzuki,A-STAR,0,0,Yes,1919,230.304,2150
+Basic Service,Maruti Suzuki,A-STAR,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,ALTO,Yes,0,0,1759,211.104,1970
+Basic Service,Maruti Suzuki,ALTO,0,0,Yes,1759,211.104,1970
+Basic Service,Maruti Suzuki,ALTO 800,Yes,0,0,1759,211.104,1970
+Basic Service,Maruti Suzuki,ALTO 800,0,0,Yes,1759,211.104,1970
+Basic Service,Maruti Suzuki,ALTO K10,Yes,0,0,1759,211.104,1970
+Basic Service,Maruti Suzuki,ALTO K10,0,0,Yes,1759,211.104,1970
+Basic Service,Maruti Suzuki,BALENO,0,0,Yes,2559,307.104,2866
+Basic Service,Maruti Suzuki,BALENO,0,Yes,0,3119,374.304,3494
+Basic Service,Maruti Suzuki,BALENO,Yes,0,0,2559,307.104,2866
+Basic Service,Maruti Suzuki,CELERIO,0,Yes,0,2399,287.904,2687
+Basic Service,Maruti Suzuki,CELERIO,Yes,0,0,1999,239.904,2239
+Basic Service,Maruti Suzuki,CELERIO,0,0,Yes,1999,239.904,2239
+Basic Service,Maruti Suzuki,CIAZ,0,0,Yes,2239,268.704,2508
+Basic Service,Maruti Suzuki,CIAZ,0,Yes,0,2879,345.504,3225
+Basic Service,Maruti Suzuki,CIAZ,Yes,0,0,2239,268.704,2508
+Basic Service,Maruti Suzuki,EECO,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,EECO,0,0,Yes,1919,230.304,2150
+Basic Service,Maruti Suzuki,ERTIGA,Yes,0,0,2319,278.304,2598
+Basic Service,Maruti Suzuki,ERTIGA,0,0,Yes,2319,278.304,2598
+Basic Service,Maruti Suzuki,ERTIGA,0,Yes,0,2399,287.904,2687
+Basic Service,Maruti Suzuki,ESTEEM,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,ESTEEM,0,0,Yes,1919,230.304,2150
+Basic Service,Maruti Suzuki,ESTILIO,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,ESTILIO,0,0,Yes,1919,230.304,2150
+Basic Service,Maruti Suzuki,GRAND VITARA,0,Yes,0,3119,374.304,3494
+Basic Service,Maruti Suzuki,GRAND VITARA,Yes,0,0,2639,316.704,2956
+Basic Service,Maruti Suzuki,GRAND VITARA,0,0,Yes,2639,316.704,2956
+Basic Service,Maruti Suzuki,GYPSY,0,0,Yes,2399,287.904,2687
+Basic Service,Maruti Suzuki,GYPSY,0,Yes,0,2959,355.104,3314
+Basic Service,Maruti Suzuki,GYPSY,Yes,0,0,2399,287.904,2687
+Basic Service,Maruti Suzuki,KIZASHI,0,Yes,0,3119,374.304,3494
+Basic Service,Maruti Suzuki,KIZASHI,Yes,0,0,2639,316.704,2956
+Basic Service,Maruti Suzuki,KIZASHI,0,0,Yes,2639,316.704,2956
+Basic Service,Maruti Suzuki,OMNI,0,0,Yes,1919,230.304,2150
+Basic Service,Maruti Suzuki,OMNI,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,RITZ,0,Yes,0,2079,249.504,2329
+Basic Service,Maruti Suzuki,RITZ,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,RITZ,0,0,Yes,1919,230.304,2150
+Basic Service,Maruti Suzuki,S-CROSS,0,0,Yes,1999,239.904,2239
+Basic Service,Maruti Suzuki,S-CROSS,0,Yes,0,2159,259.104,2418
+Basic Service,Maruti Suzuki,S-CROSS,Yes,0,0,1999,239.904,2239
+Basic Service,Maruti Suzuki,SWIFT,0,Yes,0,2079,249.504,2329
+Basic Service,Maruti Suzuki,SWIFT,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,SWIFT,0,0,Yes,1919,230.304,2150
+Basic Service,Maruti Suzuki,SWIFT DZIRE,0,0,Yes,1999,239.904,2239
+Basic Service,Maruti Suzuki,SWIFT DZIRE,0,Yes,0,2159,259.104,2418
+Basic Service,Maruti Suzuki,SWIFT DZIRE,Yes,0,0,1999,239.904,2239
+Basic Service,Maruti Suzuki,SX4,0,Yes,0,2639,316.704,2956
+Basic Service,Maruti Suzuki,SX4,Yes,0,0,2319,278.304,2598
+Basic Service,Maruti Suzuki,SX4,0,0,Yes,2319,278.304,2598
+Basic Service,Maruti Suzuki,VERSA,0,0,Yes,2239,268.704,2508
+Basic Service,Maruti Suzuki,VERSA,Yes,0,0,2239,268.704,2508
+Basic Service,Maruti Suzuki,WAGONR,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,WAGONR,0,0,Yes,1919,230.304,2150
+Basic Service,Maruti Suzuki,ZEN,Yes,0,0,1919,230.304,2150
+Basic Service,Maruti Suzuki,ZEN,0,0,Yes,1919,230.304,2150
+Basic Service,Mitsubishi,PAJERO,0,Yes,0,4399,527.904,4927
+Basic Service,Mitsubishi,PAJERO SPORT,0,Yes,0,4399,527.904,4927
+Basic Service,Nissan,EVALIA,0,Yes,0,3359,403.104,3762
+Basic Service,Nissan,MICRA,0,0,Yes,2479,297.504,2777
+Basic Service,Nissan,MICRA,Yes,0,0,2479,297.504,2777
+Basic Service,Nissan,MICRA ACTIVE,0,0,Yes,2479,297.504,2777
+Basic Service,Nissan,MICRA ACTIVE,Yes,0,0,2479,297.504,2777
+Basic Service,Nissan,SUNNY,0,Yes,0,3039,364.704,3404
+Basic Service,Nissan,TEANA,0,Yes,0,3359,403.104,3762
+Basic Service,Nissan,TERRANO,0,Yes,0,3279,393.504,3673
+Basic Service,Nissan,X-TRAIL,0,Yes,0,3519,422.304,3942
+Basic Service,Renault,DUSTER,0,Yes,0,3279,393.504,3673
+Basic Service,Renault,FLUENCE,0,0,Yes,2639,316.704,2956
+Basic Service,Renault,FLUENCE,0,Yes,0,3039,364.704,3404
+Basic Service,Renault,FLUENCE,Yes,0,0,2639,316.704,2956
+Basic Service,Renault,KOLEOS,0,Yes,0,3519,422.304,3942
+Basic Service,Renault,LODGY,0,Yes,0,3359,403.104,3762
+Basic Service,Renault,PULSE,0,Yes,0,2479,297.504,2777
+Basic Service,Renault,PULSE,Yes,0,0,2159,259.104,2418
+Basic Service,Renault,PULSE,0,0,Yes,2159,259.104,2418
+Basic Service,Renault,SCALA,0,0,Yes,2639,316.704,2956
+Basic Service,Renault,SCALA,0,Yes,0,3039,364.704,3404
+Basic Service,Renault,SCALA,Yes,0,0,2639,316.704,2956
+Basic Service,Skoda,FABIA,0,Yes,0,3199,383.904,3583
+Basic Service,Skoda,FABIA,Yes,0,0,3199,383.904,3583
+Basic Service,Skoda,FABIA,0,0,Yes,3199,383.904,3583
+Basic Service,Skoda,FABIA SCOUT,0,0,Yes,3199,383.904,3583
+Basic Service,Skoda,FABIA SCOUT,0,Yes,0,3199,383.904,3583
+Basic Service,Skoda,FABIA SCOUT,Yes,0,0,3199,383.904,3583
+Basic Service,Skoda,LAURA,0,Yes,0,3519,422.304,3942
+Basic Service,Skoda,OCTAVIA,0,Yes,0,3519,422.304,3942
+Basic Service,Skoda,OCTAVIA,Yes,0,0,3519,422.304,3942
+Basic Service,Skoda,OCTAVIA,0,0,Yes,3519,422.304,3942
+Basic Service,Skoda,RAPID,0,0,Yes,3519,422.304,3942
+Basic Service,Skoda,RAPID,0,Yes,0,3519,422.304,3942
+Basic Service,Skoda,RAPID,Yes,0,0,3519,422.304,3942
+Basic Service,Skoda,SUPERB,0,Yes,0,4239,508.704,4748
+Basic Service,Skoda,SUPERB,Yes,0,0,4239,508.704,4748
+Basic Service,Skoda,SUPERB,0,0,Yes,4239,508.704,4748
+Basic Service,Skoda,YETI,0,Yes,0,3839,460.704,4300
+Basic Service,TATA,ARIA,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,ARIA,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,ARIA,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,BOLT,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,BOLT,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,BOLT,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDICA,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDICA,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDICA,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDICA eV2,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDICA eV2,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDICA eV2,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDICA V2,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDICA V2,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDICA V2,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDICA VISTA,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDICA VISTA,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDICA VISTA,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDIGO,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDIGO,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDIGO,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDIGO CS,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDIGO CS,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDIGO CS,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDIGO eCS,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDIGO eCS,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDIGO eCS,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDIGO MARINA,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,INDIGO MARINA,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDIGO MARINA,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDIGO XL,0,Yes,0,2479,297.504,2777
+Basic Service,TATA,INDIGO XL,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,INDIGO XL,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,MANZA,0,0,Yes,2079,249.504,2329
+Basic Service,TATA,MANZA,0,Yes,0,2639,316.704,2956
+Basic Service,TATA,MANZA,Yes,0,0,2079,249.504,2329
+Basic Service,TATA,NANO,Yes,0,0,1519,182.304,1702
+Basic Service,TATA,NANO,0,0,Yes,1519,182.304,1702
+Basic Service,TATA,NANO GENX,0,0,Yes,1519,182.304,1702
+Basic Service,TATA,NANO GENX,Yes,0,0,1519,182.304,1702
+Basic Service,TATA,SAFARI,0,Yes,0,4079,489.504,4569
+Basic Service,TATA,SAFARI STORME,0,Yes,0,4079,489.504,4569
+Basic Service,TATA,SUMO GOLD,0,Yes,0,3759,451.104,4210
+Basic Service,TATA,SUMO GRANDE,0,Yes,0,3759,451.104,4210
+Basic Service,TATA,SUMO GRANDE MK II,0,Yes,0,3759,451.104,4210
+Basic Service,TATA,SUMO SPACIO,0,Yes,0,3759,451.104,4210
+Basic Service,TATA,SUMO VICTA,0,Yes,0,3759,451.104,4210
+Basic Service,TATA,ZEST,0,Yes,0,2639,316.704,2956
+Basic Service,TATA,ZEST,Yes,0,0,2319,278.304,2598
+Basic Service,TATA,ZEST,0,0,Yes,2319,278.304,2598
+Basic Service,Toyota,CAMRY,0,0,Yes,3839,460.704,4300
+Basic Service,Toyota,CAMRY,Yes,0,0,3839,460.704,4300
+Basic Service,Toyota,COROLLA,0,Yes,0,3359,403.104,3762
+Basic Service,Toyota,COROLLA,Yes,0,0,3039,364.704,3404
+Basic Service,Toyota,COROLLA,0,0,Yes,3039,364.704,3404
+Basic Service,Toyota,COROLLA ALTIS,0,0,Yes,3039,364.704,3404
+Basic Service,Toyota,COROLLA ALTIS,0,Yes,0,3359,403.104,3762
+Basic Service,Toyota,COROLLA ALTIS,Yes,0,0,3039,364.704,3404
+Basic Service,Toyota,ETIOS,0,Yes,0,2399,287.904,2687
+Basic Service,Toyota,ETIOS,Yes,0,0,1999,239.904,2239
+Basic Service,Toyota,ETIOS,0,0,Yes,1999,239.904,2239
+Basic Service,Toyota,ETIOS CROSS,0,0,Yes,1999,239.904,2239
+Basic Service,Toyota,ETIOS CROSS,0,Yes,0,2399,287.904,2687
+Basic Service,Toyota,ETIOS CROSS,Yes,0,0,1999,239.904,2239
+Basic Service,Toyota,ETIOS LIVA,0,Yes,0,2399,287.904,2687
+Basic Service,Toyota,ETIOS LIVA,Yes,0,0,1999,239.904,2239
+Basic Service,Toyota,ETIOS LIVA,0,0,Yes,1999,239.904,2239
+Basic Service,Toyota,FORTUNER,0,Yes,0,4319,518.304,4838
+Basic Service,Toyota,INNOVA,0,Yes,0,3839,460.704,4300
+Basic Service,Toyota,LAND CRUISER,0,Yes,0,4319,518.304,4838
+Basic Service,Toyota,LAND CRUISER PRADO,0,Yes,0,4319,518.304,4838
+Basic Service,Volkswagen,CROSS POLO,0,Yes,0,2639,316.704,2956
+Basic Service,Volkswagen,CROSS POLO,Yes,0,0,2479,297.504,2777
+Basic Service,Volkswagen,CROSS POLO,0,0,Yes,2479,297.504,2777
+Basic Service,Volkswagen,JETTA,0,0,Yes,2639,316.704,2956
+Basic Service,Volkswagen,JETTA,0,Yes,0,2959,355.104,3314
+Basic Service,Volkswagen,JETTA,Yes,0,0,2639,316.704,2956
+Basic Service,Volkswagen,PASSAT,0,Yes,0,2639,316.704,2956
+Basic Service,Volkswagen,PASSAT,Yes,0,0,2479,297.504,2777
+Basic Service,Volkswagen,PASSAT,0,0,Yes,2479,297.504,2777
+Basic Service,Volkswagen,POLO,0,0,Yes,2479,297.504,2777
+Basic Service,Volkswagen,POLO,0,Yes,0,2639,316.704,2956
+Basic Service,Volkswagen,POLO,Yes,0,0,2479,297.504,2777
+Basic Service,Volkswagen,VENTO,Yes,0,0,3359,403.104,3762
+Basic Service,Volkswagen,VENTO,0,0,Yes,3359,403.104,3762
+Basic Service,Volkswagen,VENTO,0,Yes,0,3439,412.704,3852

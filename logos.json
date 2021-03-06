@@ -1,0 +1,426 @@
+{
+  "Honda": {
+    "City IVTEC": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-115.jpeg",
+    "Amaze": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-107.jpeg",
+    "City": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-112.jpeg",
+    "Brio": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-110.jpeg",
+    "Jazz": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-123.jpeg",
+    "Civic": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-119.jpeg",
+    "Accord": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-105.jpeg",
+    "City ZX": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-117.jpeg",
+    "WRV": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-477.jpeg",
+    "Mobilio": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-126.jpeg",
+    "City IDTEC": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-494.jpeg",
+    "CRV": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-121.jpeg",
+    "BRV": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-476.jpeg",
+    "Accord Hybrid": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6-model-478.jpeg"
+  },
+  "Hyundai": {
+    "i10": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-152.jpeg",
+    "i20": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-154.jpeg",
+    "Grand i10": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-149.jpeg",
+    "Santro Xing": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-162.jpeg",
+    "Eon": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-144.jpeg",
+    "Xcent": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-183.jpeg",
+    "Elite i20": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-141.jpeg",
+    "Creta": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-135.jpeg",
+    "Verna Fluidic": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-177.jpeg",
+    "Verna": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-174.jpeg",
+    "Accent": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-129.jpeg",
+    "Santro": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-533.jpeg",
+    "i20 Active": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-157.jpeg",
+    "Elantra": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-138.jpeg",
+    "Getz": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-146.jpeg",
+    "Venue": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-513.jpeg",
+    "Grand i10 Nios": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-534.jpeg",
+    "Verna Transform": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-180.jpeg",
+    "Getz Prime": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-148.jpeg",
+    "Accent Viva": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-132.jpeg",
+    "SantaFE": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-160.jpeg",
+    "Tucson": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-173.jpeg",
+    "Sonata": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-164.jpeg",
+    "Sonata Embera": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-167.jpeg",
+    "Aura": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-535.jpeg",
+    "Sonata Transform": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7-model-170.jpeg"
+  },
+  "Maruti Suzuki": {
+    "Swift": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-240.jpeg",
+    "WagonR": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-251.jpeg",
+    "Swift Dzire": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-243.jpeg",
+    "Baleno": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-205.jpeg",
+    "Alto": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-197.jpeg",
+    "Ritz": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-234.jpeg",
+    "Celerio": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-208.jpeg",
+    "Ciaz": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-211.jpeg",
+    "Alto K10": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-201.jpeg",
+    "Ertiga": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-216.jpeg",
+    "Alto 800": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-199.jpeg",
+    "Vitara Brezza": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-481.jpeg",
+    "Estilo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-221.jpeg",
+    "SX4": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-246.jpeg",
+    "800": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-195.jpeg",
+    "Zen": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-253.jpeg",
+    "A-Star": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-203.jpeg",
+    "Ignis": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-482.jpeg",
+    "S-Cross": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-237.jpeg",
+    "Eeco": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-214.jpeg",
+    "Esteem": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-219.jpeg",
+    "Omni": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-232.jpeg",
+    "S-Presso": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-532.jpeg",
+    "Grand Vitara": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-223.jpeg",
+    "Gypsy": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-226.jpeg",
+    "Kizashi": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-229.jpeg",
+    "Versa": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-249.jpeg",
+    "XL6": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9-model-550.jpeg"
+  },
+  "Chevrolet": {
+    "Beat": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-4.jpeg",
+    "Spark": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-31.jpeg",
+    "Cruze": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-8.jpeg",
+    "Aveo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-1.jpeg",
+    "Sail": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-25.jpeg",
+    "Enjoy": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-11.jpeg",
+    "UVA": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-34.jpeg",
+    "Optra": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-17.jpeg",
+    "Sail Hatchback": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-28.jpeg",
+    "Optra Magnum": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-20.jpeg",
+    "Tavera": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-33.jpeg",
+    "Optra SRV": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-23.jpeg",
+    "Captiva": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-7.jpeg",
+    "Forester": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-14.jpeg",
+    "Trailblazer": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-1-model-471.jpeg"
+  },
+  "Daewoo": {
+    "Matiz": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-2-model-39.jpeg",
+    "Nexia": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-2-model-41.jpeg",
+    "Cielo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-2-model-37.jpeg"
+  },
+  "Datsun": {
+    "Redi Go": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-3-model-472.jpeg",
+    "GO": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-3-model-43.jpeg",
+    "GO Plus": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-3-model-45.jpeg"
+  },
+  "Fiat": {
+    "Punto": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-71.jpeg",
+    "Linea": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-53.jpeg",
+    "Punto Evo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-74.jpeg",
+    "Palio D": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-59.jpeg",
+    "Avventura": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-50.jpeg",
+    "Palio Stile": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-65.jpeg",
+    "Linea Classic": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-56.jpeg",
+    "Adventure": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-47.jpeg",
+    "Palio NV": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-62.jpeg",
+    "Abarth Punto": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-473.jpeg",
+    "Urban Cross": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-474.jpeg",
+    "Uno": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-75.jpeg",
+    "Petra": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-4-model-68.jpeg"
+  },
+  "Ford": {
+    "Figo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-90.jpeg",
+    "Eco Sport": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-77.jpeg",
+    "Figo Aspire": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-93.jpeg",
+    "Fiesta": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-84.jpeg",
+    "Fiesta Classic": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-87.jpeg",
+    "Ikon": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-99.jpeg",
+    "Endeavour": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-80.jpeg",
+    "Freestyle": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-497.jpeg",
+    "Fusion": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-96.jpeg",
+    "Escort": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-81.jpeg",
+    "Mondeo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-102.jpeg",
+    "Mustang": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5-model-475.jpeg"
+  },
+  "Mahindra": {
+    "XUV 500": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-193.jpeg",
+    "Scorpio": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-188.jpeg",
+    "KUV 100": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-479.jpeg",
+    "Xylo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-194.jpeg",
+    "TUV 300": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-381.jpeg",
+    "Quanto": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-187.jpeg",
+    "Bolero": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-186.jpeg",
+    "Logan": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-495.jpeg",
+    "Verito": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-191.jpeg",
+    "XUV 300": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-510.jpeg",
+    "Thar": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-190.jpeg",
+    "Bolero Camper": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-523.jpeg",
+    "NuvoSport": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-480.jpeg",
+    "Marazzo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-503.jpeg",
+    "Verito Vibe CS": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-192.jpeg",
+    "Bolero Pickup": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-524.jpeg",
+    "Scorpio Getaway": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-189.jpeg",
+    "Alturas": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-553.jpeg",
+    "E20 Plus": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8-model-504.jpeg"
+  },
+  "Mitsubishi": {
+    "Pajero Sport": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-10-model-256.jpeg",
+    "Outlander": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-10-model-492.jpeg",
+    "Pajero": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-10-model-255.jpeg",
+    "Lancer": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-10-model-511.jpeg",
+    "Cedia": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-10-model-512.jpeg",
+    "Montero": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-10-model-493.jpeg"
+  },
+  "Nissan": {
+    "Micra": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-258.jpeg",
+    "Sunny": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-262.jpeg",
+    "Terrano": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-264.jpeg",
+    "Micra Active": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-260.jpeg",
+    "Teana": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-263.jpeg",
+    "Kicks": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-552.jpeg",
+    "Evalia": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-257.jpeg",
+    "X-Trail": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-265.jpeg",
+    "GTR": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11-model-483.jpeg"
+  },
+  "Renault": {
+    "Kwid": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-382.jpeg",
+    "Duster": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-266.jpeg",
+    "Scala": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-275.jpeg",
+    "Pulse": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-272.jpeg",
+    "Fluence": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-267.jpeg",
+    "Triber": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-514.jpeg",
+    "Lodgy": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-271.jpeg",
+    "Captur": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-517.jpeg",
+    "Koleos": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12-model-270.jpeg"
+  },
+  "Skoda": {
+    "Rapid": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-13-model-288.jpeg",
+    "Fabia": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-13-model-278.jpeg",
+    "Superb": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-13-model-291.jpeg",
+    "Laura": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-13-model-284.jpeg",
+    "Octavia": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-13-model-285.jpeg",
+    "Yeti": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-13-model-294.jpeg",
+    "Fabia Scout": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-13-model-281.jpeg",
+    "Kodiaq": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-13-model-522.jpeg"
+  },
+  "Tata": {
+    "Tiago": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-484.jpeg",
+    "Nano": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-331.jpeg",
+    "Zest": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-342.jpeg",
+    "Nexon": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-485.jpeg",
+    "Indica Vista": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-310.jpeg",
+    "Tigor": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-486.jpeg",
+    "Manza": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-328.jpeg",
+    "Indica": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-301.jpeg",
+    "Indigo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-313.jpeg",
+    "Safari": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-335.jpeg",
+    "Indigo eCS": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-319.jpeg",
+    "Indica V2": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-307.jpeg",
+    "Bolt": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-298.jpeg",
+    "Indigo CS": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-316.jpeg",
+    "Safari Storme": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-336.jpeg",
+    "Nano Genx": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-333.jpeg",
+    "Indica eV2": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-304.jpeg",
+    "Altroz": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-526.jpeg",
+    "Aria": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-295.jpeg",
+    "harrier": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-508.jpeg",
+    "Hexa": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-487.jpeg",
+    "Sumo Grande": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-338.jpeg",
+    "Indigo Marina": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-322.jpeg",
+    "Sumo Gold": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-337.jpeg",
+    "Sumo Grande MK II": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-339.jpeg",
+    "Venture": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-488.jpeg",
+    "Indigo XL": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-325.jpeg",
+    "Sumo Spacio": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-340.jpeg",
+    "Winger": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-501.jpeg",
+    "Xenon": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-521.jpeg",
+    "Sumo Victa": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14-model-341.jpeg"
+  },
+  "Toyota": {
+    "Etios": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-353.jpeg",
+    "Innova": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-363.jpeg",
+    "Corolla Altis": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-350.jpeg",
+    "Etios Liva": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-359.jpeg",
+    "Fortuner": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-362.jpeg",
+    "Innova Crysta": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-489.jpeg",
+    "Corolla": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-347.jpeg",
+    "Qualis": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-529.jpeg",
+    "Etios Cross": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-356.jpeg",
+    "Yaris": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-509.jpeg",
+    "Camry": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-345.jpeg",
+    "Glanza": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-520.jpeg",
+    "Land Cruiser": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-364.jpeg",
+    "Land Cruiser Prado": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-15-model-365.jpeg"
+  },
+  "Volkswagen": {
+    "Polo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16-model-375.jpeg",
+    "Vento": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16-model-378.jpeg",
+    "Ameo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16-model-490.jpeg",
+    "Cross Polo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16-model-366.jpeg",
+    "Jetta": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16-model-369.jpeg",
+    "Passat": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16-model-372.jpeg",
+    "Beetle": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16-model-491.jpeg",
+    "Tiguan": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16-model-518.jpeg"
+  },
+  "Aston Martin": {
+    "Vantage": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-17-model-386.jpeg",
+    "Rapide": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-17-model-384.jpeg",
+    "Vanquish": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-17-model-385.jpeg",
+    "DB9": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-17-model-383.jpeg"
+  },
+  "Audi": {
+    "A4": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-388.jpeg",
+    "A6": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-389.jpeg",
+    "Q3": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-393.jpeg",
+    "Q7": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-395.jpeg",
+    "A3": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-387.jpeg",
+    "Q5": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-394.jpeg",
+    "A8 L": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-392.jpeg",
+    "A7": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-390.jpeg",
+    "A8": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-391.jpeg",
+    "TT": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-397.jpeg",
+    "R8": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-396.jpeg",
+    "Q8": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-536.jpeg",
+    "RS5": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-555.jpeg",
+    "RS3": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-556.jpeg",
+    "RS7": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18-model-557.jpeg"
+  },
+  "Bentley": {
+    "Mulsanne": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-19-model-400.jpeg",
+    "Continental": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-19-model-398.jpeg",
+    "Flying Spur": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-19-model-399.jpeg"
+  },
+  "BMW": {
+    "X1": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-410.jpeg",
+    "3 Series": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-402.jpeg",
+    "5 Series": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-404.jpeg",
+    "3 Series GT": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-403.jpeg",
+    "X3": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-411.jpeg",
+    "7 Series": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-407.jpeg",
+    "1 Series": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-401.jpeg",
+    "Z4": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-414.jpeg",
+    "5 Series GT": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-405.jpeg",
+    "X5": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-412.jpeg",
+    "X6": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-413.jpeg",
+    "6 Series": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-406.jpeg",
+    "M5": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-409.jpeg",
+    "M3": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-408.jpeg",
+    "X4": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-537.jpeg",
+    "6 Series GT": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-538.jpeg",
+    "X7": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20-model-539.jpeg"
+  },
+  "Ferrari": {
+    "458 Speciale": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-21-model-416.jpeg",
+    "458 Italia": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-21-model-415.jpeg",
+    "488": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-21-model-417.jpeg",
+    "California": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-21-model-418.jpeg",
+    "F12 Berlinetta": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-21-model-419.jpeg",
+    "FF": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-21-model-420.jpeg"
+  },
+  "Jaguar": {
+    "XF": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-22-model-423.jpeg",
+    "XE": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-22-model-422.jpeg",
+    "XJ": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-22-model-424.jpeg",
+    "F Type": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-22-model-421.jpeg",
+    "F Pace": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-22-model-540.jpeg"
+  },
+  "Lamborghini": {
+    "Huracan": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-23-model-427.jpeg",
+    "Aventador": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-23-model-425.jpeg",
+    "Gallardo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-23-model-426.jpeg"
+  },
+  "Land Rover": {
+    "Discovery Sport": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24-model-429.jpeg",
+    "Range Rover Evoque": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24-model-432.jpeg",
+    "Freelander 2": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24-model-430.jpeg",
+    "Range Rover Sport": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24-model-433.jpeg",
+    "Discovery 4": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24-model-428.jpeg",
+    "Range Rover": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24-model-431.jpeg",
+    "Range Rover Vogue": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24-model-500.jpeg",
+    "Range Rover Velar": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24-model-541.jpeg"
+  },
+  "Maserati": {
+    "Ghibli": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-25-model-434.jpeg",
+    "Quattroporte": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-25-model-437.jpeg",
+    "GranCabrio": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-25-model-435.jpeg",
+    "GranTurismo": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-25-model-436.jpeg"
+  },
+  "Mercedes": {
+    "C-Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-441.jpeg",
+    "E-Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-444.jpeg",
+    "CLA Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-442.jpeg",
+    "A-Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-438.jpeg",
+    "S-Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-450.jpeg",
+    "ML Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-449.jpeg",
+    "B-Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-440.jpeg",
+    "GLA Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-447.jpeg",
+    "GLE Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-448.jpeg",
+    "SL 500 AMG": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-451.jpeg",
+    "AMG GT": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-439.jpeg",
+    "G63 AMGr": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-445.jpeg",
+    "GL Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-446.jpeg",
+    "SLK Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-452.jpeg",
+    "CLS Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-443.jpeg",
+    "R Class": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26-model-542.jpeg"
+  },
+  "Mini": {
+    "Cooper": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-27-model-453.jpeg",
+    "Countryman": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-27-model-454.jpeg",
+    "Clubman": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-27-model-543.jpeg"
+  },
+  "Porsche": {
+    "911": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-28-model-455.jpeg",
+    "Cayenne": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-28-model-457.jpeg",
+    "Macan": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-28-model-459.jpeg",
+    "Cayman": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-28-model-458.jpeg",
+    "Panamera": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-28-model-460.jpeg",
+    "Boxter": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-28-model-456.jpeg"
+  },
+  "Rolls Royce": {
+    "Phantom": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-29-model-462.jpeg",
+    "Ghost": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-29-model-461.jpeg",
+    "Wraith": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-29-model-463.jpeg"
+  },
+  "Volvo": {
+    "S60": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-464.jpeg",
+    "V40": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-467.jpeg",
+    "S80": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-466.jpeg",
+    "XC60": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-469.jpeg",
+    "XC90": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-470.jpeg",
+    "S60 Cross Country": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-465.jpeg",
+    "V40 Cross Country": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-468.jpeg",
+    "S40": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-544.jpeg",
+    "XC 40": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-545.jpeg",
+    "V60": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-546.jpeg",
+    "V90": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-548.jpeg",
+    "S90": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-30-model-549.jpeg"
+  },
+  "Force": {
+    "One": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-31-model-496.jpeg",
+    "Traveller 3350": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-31-model-527.jpeg",
+    "Trax": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-31-model-528.jpeg",
+    "Gurkha": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-31-model-530.jpeg"
+  },
+  "Isuzu": {
+    "MU7": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-32-model-498.jpeg",
+    "Dmax V Cross": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-32-model-531.jpeg"
+  },
+  "Hindustan Motors": {
+    "Ambassador": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-33-model-499.jpeg"
+  },
+  "Jeep": {
+    "Compass": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-34-model-502.jpeg"
+  },
+  "Opel": {
+    "Corsa": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-35-model-507.jpeg",
+    "Astra": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-35-model-505.jpeg"
+  },
+  "Ssangyong": {
+    "Rexton": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-36-model-506.jpeg"
+  },
+  "Kia": {
+    "Carnival": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-38-model-558.jpeg",
+    "Seltos": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-38-model-516.jpeg",
+    "Sonet": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-38-model-554.jpeg"
+  },
+  "MG": {
+    "Gloster": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-37-model-559.jpeg",
+    "Hector": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-37-model-515.jpeg"
+  },
+  "Photon": {
+    "VIW CS2": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-39-model-519.jpeg"
+  },
+  "Jayem": {
+    "Neo": "https://gomechanic.in/addons/2eb32392.png"
+  },
+  "DC": {
+    "Avanti": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-41-model-551.jpeg"
+  }
+}

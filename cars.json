@@ -1,0 +1,1634 @@
+{
+  "AVEO": {
+    "brand": "Chevrolet",
+    "standard-cng": "3404",
+    "standard-diesel": "3762",
+    "standard-petrol": "3404",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "5286",
+    "comprehensive-cng": "5286",
+    "basic-cng": "2687",
+    "basic-diesel": "2956",
+    "basic-petrol": "2687"
+  },
+  "BEAT": {
+    "brand": "Chevrolet",
+    "standard-diesel": "3404",
+    "standard-petrol": "3135",
+    "standard-cng": "3135",
+    "comprehensive-cng": "4748",
+    "comprehensive-diesel": "6092",
+    "comprehensive-petrol": "4748",
+    "basic-diesel": "2687",
+    "basic-petrol": "2508",
+    "basic-cng": "2508"
+  },
+  "CAPTIVA": {
+    "brand": "Chevrolet",
+    "standard-diesel": "5465",
+    "comprehensive-diesel": "8870",
+    "basic-diesel": "4390"
+  },
+  "CRUZE": {
+    "brand": "Chevrolet",
+    "standard-diesel": "5465",
+    "standard-petrol": "4479",
+    "standard-cng": "4479",
+    "comprehensive-cng": "7078",
+    "comprehensive-diesel": "9049",
+    "comprehensive-petrol": "7078",
+    "basic-diesel": "4390",
+    "basic-petrol": "3583",
+    "basic-cng": "3583"
+  },
+  "ENJOY": {
+    "brand": "Chevrolet",
+    "standard-diesel": "4210",
+    "standard-petrol": "3942",
+    "standard-cng": "3942",
+    "comprehensive-diesel": "6719",
+    "comprehensive-petrol": "5554",
+    "comprehensive-cng": "5554",
+    "basic-diesel": "3404",
+    "basic-petrol": "3225",
+    "basic-cng": "3225"
+  },
+  "FORESTER": {
+    "brand": "Chevrolet",
+    "standard-cng": "5465",
+    "standard-diesel": "6182",
+    "standard-petrol": "5465",
+    "comprehensive-diesel": "9586",
+    "comprehensive-petrol": "8870",
+    "comprehensive-cng": "8870",
+    "basic-cng": "4390",
+    "basic-diesel": "4927",
+    "basic-petrol": "4390"
+  },
+  "OPTRA": {
+    "brand": "Chevrolet",
+    "standard-diesel": "5465",
+    "standard-petrol": "3762",
+    "standard-cng": "3762",
+    "comprehensive-cng": "5823",
+    "comprehensive-diesel": "8870",
+    "comprehensive-petrol": "5823",
+    "basic-diesel": "4390",
+    "basic-petrol": "2956",
+    "basic-cng": "2956"
+  },
+  "OPTRA MAGNUM": {
+    "brand": "Chevrolet",
+    "standard-cng": "3762",
+    "standard-diesel": "5465",
+    "standard-petrol": "3762",
+    "comprehensive-diesel": "8870",
+    "comprehensive-petrol": "5823",
+    "comprehensive-cng": "5823",
+    "basic-cng": "2956",
+    "basic-diesel": "4390",
+    "basic-petrol": "2956"
+  },
+  "OPTRA SRV": {
+    "brand": "Chevrolet",
+    "standard-petrol": "3762",
+    "standard-cng": "3762",
+    "comprehensive-cng": "5823",
+    "comprehensive-petrol": "5823",
+    "basic-petrol": "2956",
+    "basic-cng": "2956"
+  },
+  "SAIL": {
+    "brand": "Chevrolet",
+    "standard-diesel": "3494",
+    "standard-petrol": "3404",
+    "standard-cng": "3404",
+    "comprehensive-cng": "5286",
+    "comprehensive-diesel": "6271",
+    "comprehensive-petrol": "5286",
+    "basic-diesel": "2777",
+    "basic-petrol": "2687",
+    "basic-cng": "2687"
+  },
+  "SAIL HATCHBACK": {
+    "brand": "Chevrolet",
+    "standard-diesel": "3314",
+    "standard-petrol": "3314",
+    "standard-cng": "3314",
+    "comprehensive-petrol": "5196",
+    "comprehensive-cng": "5196",
+    "comprehensive-diesel": "6092",
+    "basic-diesel": "2598",
+    "basic-petrol": "2598",
+    "basic-cng": "2598"
+  },
+  "SPARK": {
+    "brand": "Chevrolet",
+    "standard-cng": "3314",
+    "standard-petrol": "3314",
+    "comprehensive-petrol": "4121",
+    "comprehensive-cng": "4121",
+    "basic-cng": "2777",
+    "basic-petrol": "2777"
+  },
+  "TAVERA": {
+    "brand": "Chevrolet",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7526",
+    "basic-diesel": "3762"
+  },
+  "UVA": {
+    "brand": "Chevrolet",
+    "standard-diesel": "3314",
+    "standard-petrol": "3314",
+    "standard-cng": "3314",
+    "comprehensive-cng": "4927",
+    "comprehensive-diesel": "5913",
+    "comprehensive-petrol": "4927",
+    "basic-diesel": "2598",
+    "basic-petrol": "2598",
+    "basic-cng": "2598"
+  },
+  "CIELO": {
+    "brand": "Daewoo",
+    "standard-petrol": "3583",
+    "standard-cng": "3583",
+    "comprehensive-cng": "5644",
+    "comprehensive-petrol": "5644",
+    "basic-petrol": "2866",
+    "basic-cng": "2866"
+  },
+  "MATIZ": {
+    "brand": "Daewoo",
+    "standard-petrol": "2777",
+    "standard-cng": "2777",
+    "comprehensive-cng": "4121",
+    "comprehensive-petrol": "4121",
+    "basic-petrol": "2239",
+    "basic-cng": "2239"
+  },
+  "NEXIA": {
+    "brand": "Daewoo",
+    "standard-cng": "3583",
+    "standard-petrol": "3583",
+    "comprehensive-cng": "5644",
+    "comprehensive-petrol": "5644",
+    "basic-cng": "2866",
+    "basic-petrol": "2866"
+  },
+  "GO": {
+    "brand": "Datsun",
+    "standard-cng": "2777",
+    "standard-petrol": "2777",
+    "comprehensive-petrol": "4121",
+    "comprehensive-cng": "4121",
+    "basic-cng": "2239",
+    "basic-petrol": "2239"
+  },
+  "GO PLUS": {
+    "brand": "Datsun",
+    "standard-cng": "2777",
+    "standard-petrol": "2777",
+    "comprehensive-petrol": "4121",
+    "comprehensive-cng": "4121",
+    "basic-cng": "2239",
+    "basic-petrol": "2239"
+  },
+  "ADVENTURE": {
+    "brand": "Fiat",
+    "standard-cng": "3404",
+    "standard-diesel": "3673",
+    "standard-petrol": "3404",
+    "comprehensive-diesel": "6809",
+    "comprehensive-petrol": "4927",
+    "comprehensive-cng": "4927",
+    "basic-cng": "2687",
+    "basic-diesel": "2956",
+    "basic-petrol": "2687"
+  },
+  "AVVENTURA": {
+    "brand": "Fiat",
+    "standard-diesel": "3673",
+    "standard-petrol": "3404",
+    "standard-cng": "3404",
+    "comprehensive-cng": "4927",
+    "comprehensive-diesel": "6809",
+    "comprehensive-petrol": "4927",
+    "basic-diesel": "2956",
+    "basic-petrol": "2687",
+    "basic-cng": "2687"
+  },
+  "LINEA": {
+    "brand": "Fiat",
+    "standard-cng": "3494",
+    "standard-diesel": "3762",
+    "standard-petrol": "3494",
+    "comprehensive-diesel": "6898",
+    "comprehensive-petrol": "5106",
+    "comprehensive-cng": "5106",
+    "basic-cng": "2777",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777"
+  },
+  "LINEA CLASSIC": {
+    "brand": "Fiat",
+    "standard-petrol": "3494",
+    "standard-cng": "3494",
+    "standard-diesel": "3762",
+    "comprehensive-cng": "5106",
+    "comprehensive-diesel": "6898",
+    "comprehensive-petrol": "5106",
+    "basic-petrol": "2777",
+    "basic-cng": "2777",
+    "basic-diesel": "2777"
+  },
+  "PALIO D": {
+    "brand": "Fiat",
+    "standard-diesel": "3494",
+    "standard-petrol": "3225",
+    "standard-cng": "3225",
+    "comprehensive-cng": "5106",
+    "comprehensive-diesel": "6271",
+    "comprehensive-petrol": "5106",
+    "basic-diesel": "2777",
+    "basic-petrol": "2598",
+    "basic-cng": "2598"
+  },
+  "PALIO NV": {
+    "brand": "Fiat",
+    "standard-cng": "3225",
+    "standard-diesel": "3494",
+    "standard-petrol": "3225",
+    "comprehensive-diesel": "6271",
+    "comprehensive-petrol": "5106",
+    "comprehensive-cng": "5106",
+    "basic-cng": "2598",
+    "basic-diesel": "2777",
+    "basic-petrol": "2598"
+  },
+  "PALIO STILE": {
+    "brand": "Fiat",
+    "standard-diesel": "3494",
+    "standard-petrol": "3225",
+    "standard-cng": "3225",
+    "comprehensive-cng": "5106",
+    "comprehensive-diesel": "6271",
+    "comprehensive-petrol": "5106",
+    "basic-diesel": "2777",
+    "basic-petrol": "2598",
+    "basic-cng": "2598"
+  },
+  "PETRA": {
+    "brand": "Fiat",
+    "standard-cng": "3225",
+    "standard-diesel": "3494",
+    "standard-petrol": "3225",
+    "comprehensive-diesel": "6271",
+    "comprehensive-petrol": "5106",
+    "comprehensive-cng": "5106",
+    "basic-cng": "2598",
+    "basic-diesel": "2777",
+    "basic-petrol": "2598"
+  },
+  "PUNTO": {
+    "brand": "Fiat",
+    "standard-petrol": "3135",
+    "standard-cng": "3135",
+    "standard-diesel": "3673",
+    "comprehensive-cng": "4658",
+    "comprehensive-diesel": "6809",
+    "comprehensive-petrol": "4658",
+    "basic-petrol": "2508",
+    "basic-cng": "2508",
+    "basic-diesel": "2956"
+  },
+  "PUNTO EVO": {
+    "brand": "Fiat",
+    "standard-diesel": "3135",
+    "comprehensive-diesel": "4658",
+    "basic-diesel": "2508"
+  },
+  "UNO": {
+    "brand": "Fiat",
+    "standard-cng": "3135",
+    "standard-petrol": "3135",
+    "comprehensive-petrol": "4658",
+    "comprehensive-cng": "4658",
+    "basic-cng": "2508",
+    "basic-petrol": "2508"
+  },
+  "ECO SPORT": {
+    "brand": "Ford",
+    "standard-cng": "3404",
+    "standard-diesel": "3673",
+    "standard-petrol": "3404",
+    "comprehensive-diesel": "6271",
+    "comprehensive-petrol": "5106",
+    "comprehensive-cng": "5106",
+    "basic-cng": "2687",
+    "basic-diesel": "2956",
+    "basic-petrol": "2687"
+  },
+  "ENDEAVOUR": {
+    "brand": "Ford",
+    "standard-diesel": "5286",
+    "comprehensive-diesel": "8153",
+    "basic-diesel": "4210"
+  },
+  "ESCORT": {
+    "brand": "Ford",
+    "standard-cng": "3494",
+    "standard-diesel": "3673",
+    "standard-petrol": "3494",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "5375",
+    "comprehensive-cng": "5375",
+    "basic-cng": "2777",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777"
+  },
+  "FIESTA": {
+    "brand": "Ford",
+    "standard-diesel": "3673",
+    "standard-petrol": "3494",
+    "standard-cng": "3494",
+    "comprehensive-cng": "5375",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "5375",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777",
+    "basic-cng": "2777"
+  },
+  "FIESTA CLASSIC": {
+    "brand": "Ford",
+    "standard-cng": "3494",
+    "standard-diesel": "3673",
+    "standard-petrol": "3494",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "5375",
+    "comprehensive-cng": "5375",
+    "basic-cng": "2777",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777"
+  },
+  "FIGO": {
+    "brand": "Ford",
+    "standard-cng": "3404",
+    "standard-diesel": "3494",
+    "standard-petrol": "3404",
+    "comprehensive-diesel": "6361",
+    "comprehensive-petrol": "5286",
+    "comprehensive-cng": "5286",
+    "basic-cng": "2687",
+    "basic-diesel": "2777",
+    "basic-petrol": "2687"
+  },
+  "FIGO ASPIRE": {
+    "brand": "Ford",
+    "standard-diesel": "3494",
+    "standard-petrol": "3404",
+    "standard-cng": "3404",
+    "comprehensive-cng": "5286",
+    "comprehensive-diesel": "6361",
+    "comprehensive-petrol": "5286",
+    "basic-diesel": "2777",
+    "basic-petrol": "2687",
+    "basic-cng": "2687"
+  },
+  "FUSION": {
+    "brand": "Ford",
+    "standard-cng": "3404",
+    "standard-diesel": "3494",
+    "standard-petrol": "3404",
+    "comprehensive-diesel": "6361",
+    "comprehensive-petrol": "5286",
+    "comprehensive-cng": "5286",
+    "basic-cng": "2687",
+    "basic-diesel": "2777",
+    "basic-petrol": "2687"
+  },
+  "IKON": {
+    "brand": "Ford",
+    "standard-diesel": "3673",
+    "standard-petrol": "3494",
+    "standard-cng": "3494",
+    "comprehensive-cng": "5375",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "5375",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777",
+    "basic-cng": "2777"
+  },
+  "MONDEO": {
+    "brand": "Ford",
+    "standard-cng": "3494",
+    "standard-diesel": "3673",
+    "standard-petrol": "3494",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "5375",
+    "comprehensive-cng": "5375",
+    "basic-cng": "2777",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777"
+  },
+  "ACCORD": {
+    "brand": "Honda",
+    "standard-cng": "4300",
+    "standard-petrol": "4300",
+    "comprehensive-cng": "6540",
+    "comprehensive-petrol": "6540",
+    "basic-cng": "3404",
+    "basic-petrol": "3404"
+  },
+  "AMAZE": {
+    "brand": "Honda",
+    "standard-cng": "3225",
+    "standard-diesel": "3404",
+    "standard-petrol": "3225",
+    "comprehensive-diesel": "5644",
+    "comprehensive-petrol": "5106",
+    "comprehensive-cng": "5106",
+    "basic-cng": "2598",
+    "basic-diesel": "2687",
+    "basic-petrol": "2598"
+  },
+  "BRIO": {
+    "brand": "Honda",
+    "standard-petrol": "3225",
+    "standard-cng": "3225",
+    "comprehensive-cng": "5106",
+    "comprehensive-petrol": "5106",
+    "basic-petrol": "2598",
+    "basic-cng": "2598"
+  },
+  "CITY": {
+    "brand": "Honda",
+    "standard-diesel": "3494",
+    "standard-petrol": "3404",
+    "standard-cng": "3404",
+    "comprehensive-cng": "5286",
+    "comprehensive-diesel": "5823",
+    "comprehensive-petrol": "5286",
+    "basic-diesel": "2777",
+    "basic-petrol": "2687",
+    "basic-cng": "2687"
+  },
+  "CITY IVTEC": {
+    "brand": "Honda",
+    "standard-cng": "3404",
+    "standard-petrol": "3404",
+    "comprehensive-petrol": "5286",
+    "comprehensive-cng": "5286",
+    "basic-cng": "2687",
+    "basic-petrol": "2687"
+  },
+  "CITY ZX": {
+    "brand": "Honda",
+    "standard-cng": "3404",
+    "standard-petrol": "3404",
+    "comprehensive-petrol": "5286",
+    "comprehensive-cng": "5286",
+    "basic-cng": "2687",
+    "basic-petrol": "2687"
+  },
+  "CIVIC": {
+    "brand": "Honda",
+    "standard-cng": "4121",
+    "standard-petrol": "4121",
+    "comprehensive-petrol": "6361",
+    "comprehensive-cng": "6361",
+    "basic-cng": "3314",
+    "basic-petrol": "3314"
+  },
+  "CRV": {
+    "brand": "Honda",
+    "standard-petrol": "4300",
+    "standard-cng": "4300",
+    "comprehensive-petrol": "6540",
+    "comprehensive-cng": "6540",
+    "basic-petrol": "3404",
+    "basic-cng": "3404"
+  },
+  "JAZZ": {
+    "brand": "Honda",
+    "standard-diesel": "3494",
+    "standard-petrol": "3404",
+    "standard-cng": "3404",
+    "comprehensive-petrol": "5286",
+    "comprehensive-cng": "5286",
+    "comprehensive-diesel": "5823",
+    "basic-diesel": "2777",
+    "basic-petrol": "2687",
+    "basic-cng": "2687"
+  },
+  "MOBILIO": {
+    "brand": "Honda",
+    "standard-cng": "3225",
+    "standard-diesel": "3404",
+    "standard-petrol": "3225",
+    "comprehensive-diesel": "5644",
+    "comprehensive-petrol": "5106",
+    "comprehensive-cng": "5106",
+    "basic-cng": "2598",
+    "basic-diesel": "2687",
+    "basic-petrol": "2598"
+  },
+  "ACCENT": {
+    "brand": "Hyundai",
+    "standard-diesel": "4300",
+    "standard-petrol": "2956",
+    "standard-cng": "2956",
+    "comprehensive-cng": "4121",
+    "comprehensive-diesel": "7526",
+    "comprehensive-petrol": "4121",
+    "basic-diesel": "3404",
+    "basic-petrol": "2418",
+    "basic-cng": "2418"
+  },
+  "ACCENT VIVA": {
+    "brand": "Hyundai",
+    "standard-cng": "2956",
+    "standard-diesel": "4300",
+    "standard-petrol": "2956",
+    "comprehensive-diesel": "7526",
+    "comprehensive-petrol": "4121",
+    "comprehensive-cng": "4121",
+    "basic-cng": "2418",
+    "basic-diesel": "3404",
+    "basic-petrol": "2418"
+  },
+  "CRETA": {
+    "brand": "Hyundai",
+    "standard-diesel": "4210",
+    "standard-petrol": "3225",
+    "standard-cng": "3225",
+    "comprehensive-cng": "4748",
+    "comprehensive-diesel": "7346",
+    "comprehensive-petrol": "4748",
+    "basic-diesel": "3404",
+    "basic-petrol": "2598",
+    "basic-cng": "2598"
+  },
+  "ELANTRA": {
+    "brand": "Hyundai",
+    "standard-diesel": "4210",
+    "standard-petrol": "3404",
+    "standard-cng": "3404",
+    "comprehensive-petrol": "4927",
+    "comprehensive-cng": "4927",
+    "comprehensive-diesel": "7346",
+    "basic-diesel": "3404",
+    "basic-petrol": "2687",
+    "basic-cng": "2687"
+  },
+  "ELITE i20": {
+    "brand": "Hyundai",
+    "standard-cng": "2777",
+    "standard-diesel": "3314",
+    "standard-petrol": "2777",
+    "comprehensive-diesel": "6092",
+    "comprehensive-petrol": "3852",
+    "comprehensive-cng": "3852",
+    "basic-cng": "2329",
+    "basic-diesel": "2329",
+    "basic-petrol": "2329"
+  },
+  "EON": {
+    "brand": "Hyundai",
+    "standard-petrol": "2866",
+    "standard-cng": "2866",
+    "comprehensive-cng": "4210",
+    "comprehensive-petrol": "4210",
+    "basic-petrol": "2329",
+    "basic-cng": "2329"
+  },
+  "GETZ": {
+    "brand": "Hyundai",
+    "standard-petrol": "2777",
+    "standard-cng": "2777",
+    "comprehensive-cng": "4121",
+    "comprehensive-petrol": "4121",
+    "basic-petrol": "2239",
+    "basic-cng": "2239"
+  },
+  "GETZ PRIME": {
+    "brand": "Hyundai",
+    "standard-diesel": "3762",
+    "comprehensive-diesel": "6630",
+    "basic-diesel": "2956"
+  },
+  "GRAND i10": {
+    "brand": "Hyundai",
+    "standard-cng": "2777",
+    "standard-diesel": "3314",
+    "standard-petrol": "2777",
+    "comprehensive-diesel": "7078",
+    "comprehensive-petrol": "4210",
+    "comprehensive-cng": "4210",
+    "basic-cng": "2329",
+    "basic-diesel": "3135",
+    "basic-petrol": "2329"
+  },
+  "i10": {
+    "brand": "Hyundai",
+    "standard-petrol": "2598",
+    "standard-cng": "2598",
+    "comprehensive-cng": "3852",
+    "comprehensive-petrol": "3852",
+    "basic-petrol": "2150",
+    "basic-cng": "2150"
+  },
+  "i20": {
+    "brand": "Hyundai",
+    "standard-cng": "2777",
+    "standard-diesel": "3314",
+    "standard-petrol": "2777",
+    "comprehensive-cng": "3852",
+    "comprehensive-diesel": "6092",
+    "comprehensive-petrol": "3852",
+    "basic-cng": "2329",
+    "basic-diesel": "2329",
+    "basic-petrol": "2329"
+  },
+  "i20 ACTIVE": {
+    "brand": "Hyundai",
+    "standard-diesel": "2777",
+    "standard-petrol": "3314",
+    "standard-cng": "2777",
+    "comprehensive-cng": "3852",
+    "comprehensive-diesel": "6092",
+    "comprehensive-petrol": "3852",
+    "basic-diesel": "2329",
+    "basic-petrol": "2329",
+    "basic-cng": "2329"
+  },
+  "SANTAFE": {
+    "brand": "Hyundai",
+    "standard-cng": "5554",
+    "standard-petrol": "5554",
+    "comprehensive-petrol": "9049",
+    "comprehensive-cng": "9049",
+    "basic-cng": "4479",
+    "basic-petrol": "4479"
+  },
+  "SANTRO XING": {
+    "brand": "Hyundai",
+    "standard-cng": "2508",
+    "standard-petrol": "2508",
+    "comprehensive-petrol": "3583",
+    "comprehensive-cng": "3583",
+    "basic-cng": "1970",
+    "basic-petrol": "1970"
+  },
+  "SONATA": {
+    "brand": "Hyundai",
+    "standard-cng": "3404",
+    "standard-diesel": "4210",
+    "standard-petrol": "3404",
+    "comprehensive-diesel": "7346",
+    "comprehensive-petrol": "4927",
+    "comprehensive-cng": "4927",
+    "basic-cng": "2687",
+    "basic-diesel": "3404",
+    "basic-petrol": "2687"
+  },
+  "SONATA EMBRA": {
+    "brand": "Hyundai",
+    "standard-diesel": "4210",
+    "standard-petrol": "3404",
+    "standard-cng": "3404",
+    "comprehensive-cng": "4927",
+    "comprehensive-diesel": "7346",
+    "comprehensive-petrol": "4927",
+    "basic-diesel": "3404",
+    "basic-petrol": "2687",
+    "basic-cng": "2687"
+  },
+  "SONATA TRANSFORM": {
+    "brand": "Hyundai",
+    "standard-diesel": "4210",
+    "standard-petrol": "3404",
+    "standard-cng": "3404",
+    "comprehensive-petrol": "4927",
+    "comprehensive-cng": "4927",
+    "comprehensive-diesel": "7346",
+    "basic-diesel": "3404",
+    "basic-petrol": "2687",
+    "basic-cng": "2687"
+  },
+  "TUCSON": {
+    "brand": "Hyundai",
+    "standard-diesel": "5554",
+    "comprehensive-diesel": "9049",
+    "basic-diesel": "4479"
+  },
+  "VERNA": {
+    "brand": "Hyundai",
+    "standard-diesel": "4210",
+    "standard-petrol": "3135",
+    "standard-cng": "3135",
+    "comprehensive-cng": "4390",
+    "comprehensive-diesel": "7346",
+    "comprehensive-petrol": "4390",
+    "basic-diesel": "3404",
+    "basic-petrol": "2508",
+    "basic-cng": "2508"
+  },
+  "VERNA FLUIDIC": {
+    "brand": "Hyundai",
+    "standard-cng": "3135",
+    "standard-diesel": "4210",
+    "standard-petrol": "3135",
+    "comprehensive-diesel": "7346",
+    "comprehensive-petrol": "4390",
+    "comprehensive-cng": "4390",
+    "basic-cng": "2508",
+    "basic-diesel": "3404",
+    "basic-petrol": "2508"
+  },
+  "VERNA TRANSFORM": {
+    "brand": "Hyundai",
+    "standard-diesel": "4210",
+    "standard-petrol": "3135",
+    "standard-cng": "3135",
+    "comprehensive-cng": "4390",
+    "comprehensive-diesel": "7346",
+    "comprehensive-petrol": "4390",
+    "basic-diesel": "3404",
+    "basic-petrol": "2508",
+    "basic-cng": "2508"
+  },
+  "XCENT": {
+    "brand": "Hyundai",
+    "standard-cng": "2777",
+    "standard-diesel": "3762",
+    "standard-petrol": "2777",
+    "comprehensive-diesel": "7078",
+    "comprehensive-petrol": "3852",
+    "comprehensive-cng": "3852",
+    "basic-cng": "2239",
+    "basic-diesel": "2956",
+    "basic-petrol": "2239"
+  },
+  "BOLERO": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7078",
+    "basic-diesel": "3762"
+  },
+  "QUANTO": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7078",
+    "basic-diesel": "3762"
+  },
+  "SCORPIO": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7078",
+    "basic-diesel": "3762"
+  },
+  "SCORPIO GETAWAY": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7078",
+    "basic-diesel": "3762"
+  },
+  "THAR": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7078",
+    "basic-diesel": "3762"
+  },
+  "VERITO": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "6450",
+    "basic-diesel": "3762"
+  },
+  "VERITO VIBE CS": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7078",
+    "basic-diesel": "3762"
+  },
+  "XUV 500": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7078",
+    "basic-diesel": "3762"
+  },
+  "XYLO": {
+    "brand": "Mahindra",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "7078",
+    "basic-diesel": "3762"
+  },
+  "800": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2239",
+    "standard-cng": "2239",
+    "comprehensive-cng": "3225",
+    "comprehensive-petrol": "3225",
+    "basic-petrol": "1791",
+    "basic-cng": "1791"
+  },
+  "A-STAR": {
+    "brand": "Maruti Suzuki",
+    "standard-cng": "2598",
+    "standard-petrol": "2598",
+    "comprehensive-petrol": "3762",
+    "comprehensive-cng": "3762",
+    "basic-cng": "2150",
+    "basic-petrol": "2150"
+  },
+  "ALTO": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2508",
+    "standard-cng": "2508",
+    "comprehensive-cng": "3673",
+    "comprehensive-petrol": "3673",
+    "basic-petrol": "1970",
+    "basic-cng": "1970"
+  },
+  "ALTO 800": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2508",
+    "standard-cng": "2508",
+    "comprehensive-cng": "3762",
+    "comprehensive-petrol": "3762",
+    "basic-petrol": "1970",
+    "basic-cng": "1970"
+  },
+  "ALTO K10": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2508",
+    "standard-cng": "2508",
+    "comprehensive-cng": "3942",
+    "comprehensive-petrol": "3942",
+    "basic-petrol": "1970",
+    "basic-cng": "1970"
+  },
+  "BALENO": {
+    "brand": "Maruti Suzuki",
+    "standard-cng": "3583",
+    "standard-diesel": "4210",
+    "standard-petrol": "3583",
+    "comprehensive-diesel": "6450",
+    "comprehensive-petrol": "4927",
+    "comprehensive-cng": "4927",
+    "basic-cng": "2866",
+    "basic-diesel": "3494",
+    "basic-petrol": "2866"
+  },
+  "CELERIO": {
+    "brand": "Maruti Suzuki",
+    "standard-diesel": "3404",
+    "standard-petrol": "2777",
+    "standard-cng": "2777",
+    "comprehensive-cng": "5465",
+    "comprehensive-diesel": "5644",
+    "comprehensive-petrol": "5465",
+    "basic-diesel": "2687",
+    "basic-petrol": "2239",
+    "basic-cng": "2239"
+  },
+  "CIAZ": {
+    "brand": "Maruti Suzuki",
+    "standard-cng": "3135",
+    "standard-diesel": "3942",
+    "standard-petrol": "3135",
+    "comprehensive-diesel": "5644",
+    "comprehensive-petrol": "3942",
+    "comprehensive-cng": "3942",
+    "basic-cng": "2508",
+    "basic-diesel": "3225",
+    "basic-petrol": "2508"
+  },
+  "EECO": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2598",
+    "standard-cng": "2598",
+    "comprehensive-cng": "3942",
+    "comprehensive-petrol": "3942",
+    "basic-petrol": "2150",
+    "basic-cng": "2150"
+  },
+  "ERTIGA": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "3225",
+    "standard-cng": "3225",
+    "standard-diesel": "3404",
+    "comprehensive-cng": "3942",
+    "comprehensive-diesel": "5644",
+    "comprehensive-petrol": "3942",
+    "basic-petrol": "2598",
+    "basic-cng": "2598",
+    "basic-diesel": "2687"
+  },
+  "ESTEEM": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2598",
+    "standard-cng": "2598",
+    "comprehensive-petrol": "3762",
+    "comprehensive-cng": "3762",
+    "basic-petrol": "2150",
+    "basic-cng": "2150"
+  },
+  "ESTILIO": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2598",
+    "standard-cng": "2598",
+    "comprehensive-cng": "3762",
+    "comprehensive-petrol": "3762",
+    "basic-petrol": "2150",
+    "basic-cng": "2150"
+  },
+  "GRAND VITARA": {
+    "brand": "Maruti Suzuki",
+    "standard-diesel": "4390",
+    "standard-petrol": "3673",
+    "standard-cng": "3673",
+    "comprehensive-cng": "5465",
+    "comprehensive-diesel": "6898",
+    "comprehensive-petrol": "5465",
+    "basic-diesel": "3494",
+    "basic-petrol": "2956",
+    "basic-cng": "2956"
+  },
+  "GYPSY": {
+    "brand": "Maruti Suzuki",
+    "standard-cng": "3404",
+    "standard-diesel": "4121",
+    "standard-petrol": "3404",
+    "comprehensive-diesel": "6630",
+    "comprehensive-petrol": "5196",
+    "comprehensive-cng": "5196",
+    "basic-cng": "2687",
+    "basic-diesel": "3314",
+    "basic-petrol": "2687"
+  },
+  "KIZASHI": {
+    "brand": "Maruti Suzuki",
+    "standard-diesel": "4390",
+    "standard-petrol": "3673",
+    "standard-cng": "3673",
+    "comprehensive-cng": "5465",
+    "comprehensive-diesel": "6898",
+    "comprehensive-petrol": "5465",
+    "basic-diesel": "3494",
+    "basic-petrol": "2956",
+    "basic-cng": "2956"
+  },
+  "OMNI": {
+    "brand": "Maruti Suzuki",
+    "standard-cng": "3404",
+    "standard-petrol": "3404",
+    "comprehensive-petrol": "3762",
+    "comprehensive-cng": "3762",
+    "basic-cng": "2150",
+    "basic-petrol": "2150"
+  },
+  "RITZ": {
+    "brand": "Maruti Suzuki",
+    "standard-diesel": "3314",
+    "standard-petrol": "2777",
+    "standard-cng": "2777",
+    "comprehensive-diesel": "5196",
+    "comprehensive-petrol": "3762",
+    "comprehensive-cng": "3762",
+    "basic-diesel": "2329",
+    "basic-petrol": "2150",
+    "basic-cng": "2150"
+  },
+  "S-CROSS": {
+    "brand": "Maruti Suzuki",
+    "standard-cng": "2598",
+    "standard-diesel": "2956",
+    "standard-petrol": "2598",
+    "comprehensive-diesel": "5286",
+    "comprehensive-petrol": "4210",
+    "comprehensive-cng": "4210",
+    "basic-cng": "2239",
+    "basic-diesel": "2418",
+    "basic-petrol": "2239"
+  },
+  "SWIFT": {
+    "brand": "Maruti Suzuki",
+    "standard-diesel": "2866",
+    "standard-petrol": "2598",
+    "standard-cng": "2598",
+    "comprehensive-cng": "3762",
+    "comprehensive-diesel": "5196",
+    "comprehensive-petrol": "3762",
+    "basic-diesel": "2329",
+    "basic-petrol": "2150",
+    "basic-cng": "2150"
+  },
+  "SWIFT DZIRE": {
+    "brand": "Maruti Suzuki",
+    "standard-cng": "2777",
+    "standard-diesel": "2956",
+    "standard-petrol": "2777",
+    "comprehensive-diesel": "5286",
+    "comprehensive-petrol": "3942",
+    "comprehensive-cng": "3942",
+    "basic-cng": "2239",
+    "basic-diesel": "2418",
+    "basic-petrol": "2239"
+  },
+  "SX4": {
+    "brand": "Maruti Suzuki",
+    "standard-diesel": "3673",
+    "standard-petrol": "3314",
+    "standard-cng": "3314",
+    "comprehensive-cng": "4658",
+    "comprehensive-diesel": "5913",
+    "comprehensive-petrol": "4658",
+    "basic-diesel": "2956",
+    "basic-petrol": "2598",
+    "basic-cng": "2598"
+  },
+  "VERSA": {
+    "brand": "Maruti Suzuki",
+    "standard-cng": "3135",
+    "standard-petrol": "3135",
+    "comprehensive-petrol": "4300",
+    "comprehensive-cng": "4300",
+    "basic-cng": "2508",
+    "basic-petrol": "2508"
+  },
+  "WAGONR": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2598",
+    "standard-cng": "2598",
+    "comprehensive-petrol": "3762",
+    "comprehensive-cng": "3762",
+    "basic-petrol": "2150",
+    "basic-cng": "2150"
+  },
+  "ZEN": {
+    "brand": "Maruti Suzuki",
+    "standard-petrol": "2598",
+    "standard-cng": "2598",
+    "comprehensive-cng": "3762",
+    "comprehensive-petrol": "3762",
+    "basic-petrol": "2150",
+    "basic-cng": "2150"
+  },
+  "PAJERO": {
+    "brand": "Mitsubishi",
+    "standard-diesel": "6182",
+    "comprehensive-diesel": "9855",
+    "basic-diesel": "4927"
+  },
+  "PAJERO SPORT": {
+    "brand": "Mitsubishi",
+    "standard-diesel": "6182",
+    "comprehensive-diesel": "9855",
+    "basic-diesel": "4927"
+  },
+  "EVALIA": {
+    "brand": "Nissan",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "8242",
+    "basic-diesel": "3762"
+  },
+  "MICRA": {
+    "brand": "Nissan",
+    "standard-cng": "3494",
+    "standard-petrol": "3494",
+    "comprehensive-petrol": "5913",
+    "comprehensive-cng": "5913",
+    "basic-cng": "2777",
+    "basic-petrol": "2777"
+  },
+  "MICRA ACTIVE": {
+    "brand": "Nissan",
+    "standard-cng": "3494",
+    "standard-petrol": "3494",
+    "comprehensive-petrol": "5913",
+    "comprehensive-cng": "5913",
+    "basic-cng": "2777",
+    "basic-petrol": "2777"
+  },
+  "SUNNY": {
+    "brand": "Nissan",
+    "standard-diesel": "4300",
+    "comprehensive-diesel": "6898",
+    "basic-diesel": "3404"
+  },
+  "TEANA": {
+    "brand": "Nissan",
+    "standard-diesel": "4748",
+    "comprehensive-diesel": "7436",
+    "basic-diesel": "3762"
+  },
+  "TERRANO": {
+    "brand": "Nissan",
+    "standard-diesel": "4569",
+    "comprehensive-diesel": "8153",
+    "basic-diesel": "3673"
+  },
+  "X-TRAIL": {
+    "brand": "Nissan",
+    "standard-diesel": "4927",
+    "comprehensive-diesel": "8511",
+    "basic-diesel": "3942"
+  },
+  "DUSTER": {
+    "brand": "Renault",
+    "standard-diesel": "4569",
+    "comprehensive-diesel": "8153",
+    "basic-diesel": "3673"
+  },
+  "FLUENCE": {
+    "brand": "Renault",
+    "standard-cng": "3673",
+    "standard-diesel": "4300",
+    "standard-petrol": "3673",
+    "comprehensive-cng": "5465",
+    "comprehensive-diesel": "6898",
+    "comprehensive-petrol": "5465",
+    "basic-cng": "2956",
+    "basic-diesel": "3404",
+    "basic-petrol": "2956"
+  },
+  "KOLEOS": {
+    "brand": "Renault",
+    "standard-diesel": "4927",
+    "comprehensive-diesel": "8511",
+    "basic-diesel": "3942"
+  },
+  "LODGY": {
+    "brand": "Renault",
+    "standard-diesel": "4658",
+    "comprehensive-diesel": "8242",
+    "basic-diesel": "3762"
+  },
+  "PULSE": {
+    "brand": "Renault",
+    "standard-diesel": "3494",
+    "standard-petrol": "2956",
+    "standard-cng": "2956",
+    "comprehensive-cng": "4658",
+    "comprehensive-diesel": "5913",
+    "comprehensive-petrol": "4658",
+    "basic-diesel": "2777",
+    "basic-petrol": "2418",
+    "basic-cng": "2418"
+  },
+  "SCALA": {
+    "brand": "Renault",
+    "standard-cng": "3673",
+    "standard-diesel": "4300",
+    "standard-petrol": "3673",
+    "comprehensive-diesel": "6898",
+    "comprehensive-petrol": "5465",
+    "comprehensive-cng": "5465",
+    "basic-cng": "2956",
+    "basic-diesel": "3404",
+    "basic-petrol": "2956"
+  },
+  "FABIA": {
+    "brand": "Skoda",
+    "standard-diesel": "4569",
+    "standard-petrol": "4569",
+    "standard-cng": "4569",
+    "comprehensive-cng": "6809",
+    "comprehensive-diesel": "7436",
+    "comprehensive-petrol": "6809",
+    "basic-diesel": "3583",
+    "basic-petrol": "3583",
+    "basic-cng": "3583"
+  },
+  "FABIA SCOUT": {
+    "brand": "Skoda",
+    "standard-cng": "4569",
+    "standard-diesel": "4569",
+    "standard-petrol": "4569",
+    "comprehensive-diesel": "7436",
+    "comprehensive-petrol": "6809",
+    "comprehensive-cng": "6809",
+    "basic-cng": "3583",
+    "basic-diesel": "3583",
+    "basic-petrol": "3583"
+  },
+  "LAURA": {
+    "brand": "Skoda",
+    "standard-diesel": "5106",
+    "comprehensive-diesel": "7526",
+    "basic-diesel": "3942"
+  },
+  "OCTAVIA": {
+    "brand": "Skoda",
+    "standard-diesel": "5106",
+    "standard-petrol": "4748",
+    "standard-cng": "4748",
+    "comprehensive-cng": "6809",
+    "comprehensive-diesel": "7884",
+    "comprehensive-petrol": "6809",
+    "basic-diesel": "3942",
+    "basic-petrol": "3942",
+    "basic-cng": "3942"
+  },
+  "RAPID": {
+    "brand": "Skoda",
+    "standard-cng": "4748",
+    "standard-diesel": "5106",
+    "standard-petrol": "4748",
+    "comprehensive-diesel": "8153",
+    "comprehensive-petrol": "6898",
+    "comprehensive-cng": "6898",
+    "basic-cng": "3942",
+    "basic-diesel": "3942",
+    "basic-petrol": "3942"
+  },
+  "SUPERB": {
+    "brand": "Skoda",
+    "standard-diesel": "5913",
+    "standard-petrol": "5913",
+    "standard-cng": "5913",
+    "comprehensive-cng": "8063",
+    "comprehensive-diesel": "9318",
+    "comprehensive-petrol": "8063",
+    "basic-diesel": "4748",
+    "basic-petrol": "4748",
+    "basic-cng": "4748"
+  },
+  "YETI": {
+    "brand": "Skoda",
+    "standard-diesel": "5913",
+    "comprehensive-diesel": "9318",
+    "basic-diesel": "4300"
+  },
+  "ARIA": {
+    "brand": "TATA",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "standard-cng": "2866",
+    "comprehensive-cng": "3673",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329",
+    "basic-cng": "2329"
+  },
+  "BOLT": {
+    "brand": "TATA",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "standard-cng": "2866",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "comprehensive-cng": "3673",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329",
+    "basic-cng": "2329"
+  },
+  "INDICA": {
+    "brand": "TATA",
+    "standard-cng": "2866",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "comprehensive-cng": "3673",
+    "basic-cng": "2329",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329"
+  },
+  "INDICA eV2": {
+    "brand": "TATA",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "standard-cng": "2866",
+    "comprehensive-cng": "3673",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329",
+    "basic-cng": "2329"
+  },
+  "INDICA V2": {
+    "brand": "TATA",
+    "standard-cng": "2866",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "comprehensive-cng": "3673",
+    "basic-cng": "2329",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329"
+  },
+  "INDICA VISTA": {
+    "brand": "TATA",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "standard-cng": "2866",
+    "comprehensive-cng": "3673",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329",
+    "basic-cng": "2329"
+  },
+  "INDIGO": {
+    "brand": "TATA",
+    "standard-cng": "2866",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "comprehensive-cng": "3673",
+    "basic-cng": "2329",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329"
+  },
+  "INDIGO CS": {
+    "brand": "TATA",
+    "standard-cng": "2866",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "comprehensive-cng": "3673",
+    "basic-cng": "2329",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329"
+  },
+  "INDIGO eCS": {
+    "brand": "TATA",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "standard-cng": "2866",
+    "comprehensive-cng": "3673",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329",
+    "basic-cng": "2329"
+  },
+  "INDIGO MARINA": {
+    "brand": "TATA",
+    "standard-cng": "2866",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "comprehensive-cng": "3673",
+    "basic-cng": "2329",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329"
+  },
+  "INDIGO XL": {
+    "brand": "TATA",
+    "standard-diesel": "3494",
+    "standard-petrol": "2866",
+    "standard-cng": "2866",
+    "comprehensive-cng": "3673",
+    "comprehensive-diesel": "6540",
+    "comprehensive-petrol": "3673",
+    "basic-diesel": "2777",
+    "basic-petrol": "2329",
+    "basic-cng": "2329"
+  },
+  "MANZA": {
+    "brand": "TATA",
+    "standard-cng": "2866",
+    "standard-diesel": "3762",
+    "standard-petrol": "2866",
+    "comprehensive-diesel": "6809",
+    "comprehensive-petrol": "4210",
+    "comprehensive-cng": "4210",
+    "basic-cng": "2329",
+    "basic-diesel": "2956",
+    "basic-petrol": "2329"
+  },
+  "NANO": {
+    "brand": "TATA",
+    "standard-petrol": "2150",
+    "standard-cng": "2150",
+    "comprehensive-cng": "2866",
+    "comprehensive-petrol": "2866",
+    "basic-petrol": "1702",
+    "basic-cng": "1702"
+  },
+  "NANO GENX": {
+    "brand": "TATA",
+    "standard-cng": "2150",
+    "standard-petrol": "2150",
+    "comprehensive-petrol": "2866",
+    "comprehensive-cng": "2866",
+    "basic-cng": "1702",
+    "basic-petrol": "1702"
+  },
+  "SAFARI": {
+    "brand": "TATA",
+    "standard-diesel": "5734",
+    "comprehensive-diesel": "9228",
+    "basic-diesel": "4569"
+  },
+  "SAFARI STORME": {
+    "brand": "TATA",
+    "standard-diesel": "5734",
+    "comprehensive-diesel": "9228",
+    "basic-diesel": "4569"
+  },
+  "SUMO GOLD": {
+    "brand": "TATA",
+    "standard-diesel": "5196",
+    "comprehensive-diesel": "8511",
+    "basic-diesel": "4210"
+  },
+  "SUMO GRANDE": {
+    "brand": "TATA",
+    "standard-diesel": "5196",
+    "comprehensive-diesel": "8511",
+    "basic-diesel": "4210"
+  },
+  "SUMO GRANDE MK II": {
+    "brand": "TATA",
+    "standard-diesel": "5196",
+    "comprehensive-diesel": "8511",
+    "basic-diesel": "4210"
+  },
+  "SUMO SPACIO": {
+    "brand": "TATA",
+    "standard-diesel": "5196",
+    "comprehensive-diesel": "8511",
+    "basic-diesel": "4210"
+  },
+  "SUMO VICTA": {
+    "brand": "TATA",
+    "standard-diesel": "5196",
+    "comprehensive-diesel": "8511",
+    "basic-diesel": "4210"
+  },
+  "ZEST": {
+    "brand": "TATA",
+    "standard-diesel": "3762",
+    "standard-petrol": "3225",
+    "standard-cng": "3225",
+    "comprehensive-cng": "4210",
+    "comprehensive-diesel": "6719",
+    "comprehensive-petrol": "4210",
+    "basic-diesel": "2956",
+    "basic-petrol": "2598",
+    "basic-cng": "2598"
+  },
+  "CAMRY": {
+    "brand": "Toyota",
+    "standard-cng": "6271",
+    "standard-petrol": "6271",
+    "comprehensive-petrol": "8242",
+    "comprehensive-cng": "8242",
+    "basic-cng": "4300",
+    "basic-petrol": "4300"
+  },
+  "COROLLA": {
+    "brand": "Toyota",
+    "standard-diesel": "4569",
+    "standard-petrol": "4569",
+    "standard-cng": "4569",
+    "comprehensive-diesel": "7615",
+    "comprehensive-petrol": "6092",
+    "comprehensive-cng": "6092",
+    "basic-diesel": "3762",
+    "basic-petrol": "3404",
+    "basic-cng": "3404"
+  },
+  "COROLLA ALTIS": {
+    "brand": "Toyota",
+    "standard-cng": "4569",
+    "standard-diesel": "4927",
+    "standard-petrol": "4569",
+    "comprehensive-diesel": "7615",
+    "comprehensive-petrol": "6092",
+    "comprehensive-cng": "6092",
+    "basic-cng": "3404",
+    "basic-diesel": "3762",
+    "basic-petrol": "3404"
+  },
+  "ETIOS": {
+    "brand": "Toyota",
+    "standard-diesel": "3314",
+    "standard-petrol": "2777",
+    "standard-cng": "2777",
+    "comprehensive-cng": "3942",
+    "comprehensive-diesel": "5375",
+    "comprehensive-petrol": "3942",
+    "basic-diesel": "2687",
+    "basic-petrol": "2239",
+    "basic-cng": "2239"
+  },
+  "ETIOS CROSS": {
+    "brand": "Toyota",
+    "standard-cng": "2777",
+    "standard-diesel": "3314",
+    "standard-petrol": "2777",
+    "comprehensive-diesel": "5375",
+    "comprehensive-petrol": "3942",
+    "comprehensive-cng": "3942",
+    "basic-cng": "2239",
+    "basic-diesel": "2687",
+    "basic-petrol": "2239"
+  },
+  "ETIOS LIVA": {
+    "brand": "Toyota",
+    "standard-diesel": "3314",
+    "standard-petrol": "2777",
+    "standard-cng": "2777",
+    "comprehensive-cng": "3942",
+    "comprehensive-diesel": "5375",
+    "comprehensive-petrol": "3942",
+    "basic-diesel": "2687",
+    "basic-petrol": "2239",
+    "basic-cng": "2239"
+  },
+  "FORTUNER": {
+    "brand": "Toyota",
+    "standard-diesel": "7615",
+    "comprehensive-diesel": "9676",
+    "basic-diesel": "4838"
+  },
+  "INNOVA": {
+    "brand": "Toyota",
+    "standard-diesel": "7615",
+    "comprehensive-diesel": "8242",
+    "basic-diesel": "4300"
+  },
+  "LAND CRUISER": {
+    "brand": "Toyota",
+    "standard-diesel": "7794",
+    "comprehensive-diesel": "9497",
+    "basic-diesel": "4838"
+  },
+  "LAND CRUISER PRADO": {
+    "brand": "Toyota",
+    "standard-diesel": "7794",
+    "comprehensive-diesel": "9497",
+    "basic-diesel": "4838"
+  },
+  "CROSS POLO": {
+    "brand": "Volkswagen",
+    "standard-diesel": "3762",
+    "standard-petrol": "3494",
+    "standard-cng": "3494",
+    "comprehensive-cng": "5465",
+    "comprehensive-diesel": "6271",
+    "comprehensive-petrol": "5465",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777",
+    "basic-cng": "2777"
+  },
+  "JETTA": {
+    "brand": "Volkswagen",
+    "standard-cng": "4658",
+    "standard-diesel": "4838",
+    "standard-petrol": "4658",
+    "comprehensive-diesel": "8153",
+    "comprehensive-petrol": "6898",
+    "comprehensive-cng": "6898",
+    "basic-cng": "2956",
+    "basic-diesel": "3314",
+    "basic-petrol": "2956"
+  },
+  "PASSAT": {
+    "brand": "Volkswagen",
+    "standard-diesel": "4838",
+    "standard-petrol": "4658",
+    "standard-cng": "4658",
+    "comprehensive-cng": "6898",
+    "comprehensive-diesel": "8153",
+    "comprehensive-petrol": "6898",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777",
+    "basic-cng": "2777"
+  },
+  "POLO": {
+    "brand": "Volkswagen",
+    "standard-cng": "3494",
+    "standard-diesel": "3762",
+    "standard-petrol": "3494",
+    "comprehensive-diesel": "6271",
+    "comprehensive-petrol": "5465",
+    "comprehensive-cng": "5465",
+    "basic-cng": "2777",
+    "basic-diesel": "2956",
+    "basic-petrol": "2777"
+  },
+  "VENTO": {
+    "brand": "Volkswagen",
+    "standard-petrol": "4658",
+    "standard-cng": "4658",
+    "standard-diesel": "4838",
+    "comprehensive-cng": "6092",
+    "comprehensive-diesel": "6361",
+    "comprehensive-petrol": "6092",
+    "basic-petrol": "3762",
+    "basic-cng": "3762",
+    "basic-diesel": "3852"
+  }
+}
